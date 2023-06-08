@@ -1,0 +1,1224 @@
+
+ 
+Thread:
+ 
+ 
+Sent: 	Wednesday, June 7, 2023 8:16 PM
+ 
+Subject:          	AI, pricing algorithms must be trained, checked, updated for antitrust compliance, US DOJ official says | Insight
+ 
+  <https://content.mlex.com/images/MLex_Logo_Rmark.png>   
+ 
+AI, pricing algorithms must be trained, checked, updated for antitrust compliance, US DOJ official says <https://protect-eu.mimecast.com/s/fTc7Cxl0DtRQypGs8UqER?domain=content.mlex.com>            	
+7 Jun 2023	|	23:12 GMT    |	Insight           	
+By Khushita Vasant     	
+Companies in the US must consider the role artificial intelligence and algorithms play in a "proactive way" as they build and update their antitrust compliance programs, a senior Department of Justice official said today.  
+Companies in the US must consider the role artificial intelligence and algorithms play in a "proactive way" as they build and update their antitrust compliance programs, a senior Department of Justice official said today.
+ 
+Carolyn Olson, acting chief of the DOJ's Criminal I Section in Washington, said a company would have a “hard time” persuading DOJ antitrust enforcers it had an effective compliance program if it didn't account for risks associated with pricing algorithms and similar tools.
+ 
+The DOJ official gave an example of when algorithms may be used and what guardrails exist. One such instance is that of self-driving cars or cars driven by algorithms that are taught the traffic rules to not hit other cars and not hit people — especially when in the crosswalk.
+ 
+"All that should say [is that] algorithms that run self-driving cars, self-learning algorithms, even in those types of algorithms, people have found ways to teach them to put in guardrails, where it is especially important for safety and for legality," Olson said at a conference.
+ 
+"So, all AI can be trained, and if pricing algorithms are used in the business, they should be trained for compliance as well, and they should be checked and updated to the extent that the self-learning algorithm overrides that guardrail," she said.
+ 
+Speaking hypothetically, Olson said prosecutors involved in investigations about algorithmic collusion would probably ask questions along the lines of whether the company enabled its AI to fix prices, whether it enabled the AI to communicate with competitors to abuse its monopoly power, and whether the company included training on its AI to prevent the fixing of prices.
+ 
+Prosecutors would also inquire about what steps, if any, the company took to retrain the software so the problem didn't continue after the price-fixing or other anticompetitive conduct was discovered, she said.
+ 
+"This falls ... very much within the need for compliance programs to stay up to date, and to continue to evolve as the company learns more about how things work in practice," the DOJ enforcer said.
+ 
+Olson said no "truly effective" compliance program that was structured around communication by fax and by pager would be seen as "modern" and able to grapple with the means of communication today.
+ 
+*
+ 
+ 
+Sent: 	Friday, June 2, 2023 4:09 PM
+ 
+Subject:          	Google grilled by US judge over DOJ, states' pursuit of source code in adtech monopoly case | Insight
+ 
+ 
+ 
+Google grilled by US judge over DOJ, states' pursuit of source code in adtech monopoly case 
+2 Jun 2023	|	20:05 GMT    |	Insight           	
+By Chris May  	
+Google was warned by a US judge today that it may find itself in hot water if undisclosed internal guides for source code powering its digital advertising network emerge after he rules on an ongoing discovery dispute with the government in a monopoly case seeking to break up the company's adtech business.    	
+Google was warned by a US federal judge today that it may find itself in hot water if undisclosed internal guides for source code powering its digital advertising network emerge after he rules on an ongoing discovery dispute with the government in a monopoly case seeking to break up the company's adtech business.
+ 
+The Department of Justice and a group of eight states are asking US Magistrate Judge John Anderson of the Eastern District of Virginia to compel Google to produce additional source code and technical explanatory documents they say are needed to explain to a jury how Google “created a deliberately-deceptive black box” that allows the company to game the rules of the multi-billion-dollar digital ad industry (see here <https://protect-eu.mimecast.com/s/Aw77C60w5Hy4VDoc6TWET?domain=content.mlex.com> ).
+ 
+After being pressed repeatedly by Anderson during today's hearing, Google attorney Joseph Bial said DOJ experts will be able to begin reviewing Google’s “secret sauce” within a week.
+ 
+Google is fighting an antitrust lawsuit by eight US states and the DOJ's antitrust division accusing the company of a systematic and illegal scheme to monopolize digital advertising markets (see here <https://protect-eu.mimecast.com/s/3RImC7Ax5SZBEqmUB2Jt-?domain=content.mlex.com> ). The complaint calls for a break-up of Google’s sprawling digital ad business.
+ 
+The company has already agreed to provide highly restricted access to several sets of source code related to digital advertising programs and projects that are implicated in another lawsuit brought by the attorneys general of Texas and 16 other US states and territories (see here <https://protect-eu.mimecast.com/s/MbteC89y5CYyOrjTMGMWQ?domain=content.mlex.com> ). That suit alleges that Google’s adtech platform violates antitrust and consumer protection laws.
+ 
+Google failed in an earlier bid to transfer the DOJ’s adtech case to New York, where the states’ case is being heard, and now accuses the DOJ of attempting to use the Eastern District of Virginia’s reputation as a “rocket docket” to “unduly burden Google with discovery” (see here <https://protect-eu.mimecast.com/s/TPZEC92z5f2wR1mcP_NdB?domain=content.mlex.com> ). 
+ 
+Anderson quizzed DOJ attorney Kelly Garcia about why he should compel Google to provide additional source code material he characterized as “pretty broad,” “maybe vague” and  “sometimes catch-all.”
+ 
+“I don’t want to be in a position to order something that isn’t specific,” Anderson said. “Why is any more needed?”
+ 
+Garcia said the government couldn’t be sure whether a list of agreed search terms between the parties is adequate to illuminate the workings of Google’s advertising and online bidding algorithms, because the company had yet to provide any of those materials or make the already-agreed-upon source code disclosures available.
+ 
+The plaintiffs are also seeking data dictionaries, user manuals, and so-called “pseudocode” that explains the workings of Google’s algorithms in plain language designed for non-experts or new hires.
+ 
+“To the best of Plaintiffs’ knowledge, Google’s source code is unique, long, and complicated – something approaching a language of its own,” the enforcers said in a recent filing supporting their motion to compel. “What Plaintiffs and their experts need is the technological equivalent of dictionaries, glossaries, and cultural guides – enough information to read and understand the source code.”
+ 
+Google has “not been able to locate those” thus far, Bial told the court, and if the current list of search terms agreed upon by the parties doesn’t bring that information up, “it probably doesn’t exist.”
+ 
+“It doesn’t seem that difficult to find someone at Google” who would know whether those explanatory materials existed, Anderson said. “The problem you face,” he continued, is the possibility of a situation arising where the company didn’t produce relevant documents that later end up being referenced during depositions with knowledgeable employees.
+ 
+“This is to make sure you don’t get yourself in trouble,” Anderson told Bial.
+ 
+Anderson declined to rule on the motion during the hearing, and encouraged the parties to start inviting data scientists or other technical experts into future meetings as a way to resolve the current impasse.
+ 
+He gave the government and Google attorneys two options: have him rule on the motion at another hearing next week, or wait two weeks to address the issue alongside a dispute about the need to seal materials in a government motion to compel production of allegedly misclassified documents (see here <https://protect-eu.mimecast.com/s/DVqJC09n6CmAJ82u3FECn?domain=content.mlex.com> ).
+ 
+ 
+ 
+Sent: 	Wednesday, May 31, 2023 6:12 PM
+ 
+Subject:          	Google seeks denial of US DOJ’s ‘ill-defined’ bid to compel production of Google source code in adtech antitrust case | Official Statement
+ 
+  <https://content.mlex.com/images/MLex_Logo_Rmark.png>   
+ 
+Google seeks denial of US DOJ’s ‘ill-defined’ bid to compel production of Google source code in adtech antitrust case <https://protect-eu.mimecast.com/s/uDUyCM9qpCzZQEAIw85PD?domain=content.mlex.com>   	
+31 May 2023	|    22:06 GMT	|	Official Statement 	
+          	
+MLex Summary: Google has already agreed to make source code available for specific features and algorithms at issue in a US Department of Justice lawsuit alleging monopolization of digital advertising markets, and the DOJ’s motion to compel additional production of “an ill-defined selection of catch-alls” should be denied, the company said in a filing to a Virginia federal court. “Plaintiffs filed this Motion prematurely … and without making any attempt to justify their Requests for the limited information that Google did not agree to provide,” the company said.
+ 
+          	
+ 
+Sent: 	Friday, May 26, 2023 7:15 PM
+ 
+Subject:          	Comment: RealPage apartment algorithm antitrust case, moving forward in Tennessee, foreshadows US regulatory scrutiny | Comment
+ 
+  <https://content.mlex.com/images/MLex_Logo_Rmark.png>   
+ 
+Comment: RealPage apartment algorithm antitrust case, moving forward in Tennessee, foreshadows US regulatory scrutiny <https://protect-eu.mimecast.com/s/axXGC29p5C84nKncnoaIz?domain=content.mlex.com>            	
+26 May 2023	|	22:24 GMT    |	Comment  	
+By Mike Swift and Khushita Vasant      	
+US apartment landlords who once lived by the dictum “heads in beds,” deciding to charge lower rents rather than allowing apartments to stand vacant during times of slack demand, are instead joining an illegal cartel with artificial intelligence at its center, according to more than 30 antitrust lawsuits against a Texas company called RealPage. But if the plaintiffs' bar got off the blocks first in confronting what those suits call “coordinated algorithmic pricing," US antitrust regulators may not be far behind.      	
+US apartment landlords once lived by the dictum “heads in beds,” reflecting the belief that in periods of slack demand, property managers should rent apartments at a lower rent rather than carry vacancies while waiting for tenants willing to pay higher rents.
+ 
+In recent years, a proprietary algorithm has changed all that, allege a long list of putative antitrust class actions filed around the US against RealPage and apartment landlords. The complaints say the Texas company’s illegal use of “coordinated algorithmic pricing” has allowed landlords across the United States to collude in order to decouple supply from demand, driving up rents while hundreds of thousands more apartment units sit vacant.
+ 
+By analyzing terabytes of data and hundreds of variables ranging from apartment layouts to patterns of when leases will be up, RealPage’s “YieldStar/AI Revenue Management” algorithm allows landlords to “stagger” when they allow apartments to become available to rent, sidestepping the market’s natural fluctuations of supply and demand, the suits allege.
+ 
+“Coordinated algorithmic pricing allows property managers to, in RealPage’s own words, ‘outsource daily pricing and ongoing revenue oversight’ to RealPage, allowing RealPage to set prices for client property managers’ properties ‘as if we [RealPage] own them ourselves,’” says a complaint filed this month by Hannah Blosser, a renter in Nashville (see here <https://protect-eu.mimecast.com/s/MP1KC39q5C2PL7LuqXhB_?domain=content.mlex.com> ). “Put differently, the software allows the independent property managers to operate as if they were one company setting prices.”
+ 
+That conduct violates Section 1 of the Sherman Act, which prohibits price-fixing, allege more than 30 lawsuits that were recently consolidated before a federal judge in Nashville by the US Judicial Panel for Multidistrict Litigation (see here <https://protect-eu.mimecast.com/s/MOhXC49r7ClnLYLuBXUWk?domain=content.mlex.com> ). An initial case management conference in the consolidated case is scheduled for Wednesday before US District Judge Waverly D. Crenshaw Jr. in the Middle District of Tennessee.
+ 
+RealPage denies the allegations. “RealPage believes the allegations are completely without merit and will vigorously defend against the lawsuits. The complaints filed are wrong on both the facts and the law. Beyond that, we do not comment on pending litigation,” the company said in a written statement to MLex today.
+ 
+Even before US antitrust regulators at the US Department of Justice and the Federal Trade Commission act, the private litigation against RealPage is being invoked at technology law conferences around the US as an early bellwether for the regulatory implications for AI, a technology that has galvanized the attention of data protection and antitrust regulators around the world since the emergence of ChatGPT late last year.
+ 
+—DOJ warnings—
+ 
+The RealPage suits began to flood in last fall after an investigative story by ProPublica into RealPage’s use of apartment pricing data. But if the plaintiffs’ bar for now is ahead of competition and data protection regulators such as the DOJ and the FTC, that might not always be the case.
+ 
+US antitrust enforcers are understood to have acknowledged to themselves that they were slow to recognize some of the challenges of technology while being too charitable about the explanations companies gave for their anticompetitive conduct and rampant acquisitions. The DOJ realizes that it needs to be appropriately discerning in the AI race, MLex understands. Doing so, however, requires enforcers to understand it first.
+ 
+The enforcer has hired a cadre of AI experts over the past year, including an economist, Susan Athey, who is a preeminent auction theorist and a published computer scientist. Athey, who contributed to the work of Stanford University’s AI Lab, is helping DOJ attorneys understand what enforcement moves may be necessary to counter the anticompetitive risks stemming from AI.
+ 
+While no one really knows where generative AI is going, the DOJ’s premise is that data collusion has its roots in existing kinds of antitrust problems, such as exchange of competitively sensitive information among rivals that has no pro-competitive justification.
+ 
+To this end, the DOJ recently revoked 30-year-old information-sharing guidelines that permitted companies, under limited circumstances, to engage in pro-competitive collaboration that might otherwise create concerns about running afoul of competition laws (see here <https://protect-eu.mimecast.com/s/-CNTC5Wv5u6zqgqt21Gk0?domain=content.mlex.com>  and here <https://protect-eu.mimecast.com/s/VlbuC60w5HygQVQFxF5gl?domain=content.mlex.com> ). The withdrawal of the guidance — which was met by much criticism in the antitrust bar — came as the DOJ said it no longer reflects methods of collusion made available by modern technologies.
+ 
+No one has yet connected the information-sharing safe harbors to AI collusion, but DOJ enforcers are understood to be approaching algorithmic collusion as the ability to share information between conspirators on steroids. The ability to apply machine learning and artificial intelligence to datasets is deeply concerning to the agency, MLex understands.
+ 
+From the perspective of US antitrust enforcers, it doesn’t help that there are companies that exist for the sole purpose of facilitating information sharing, such as third-party consultants who manage datasets and create surveys based on data from multiple competitors in an industry.
+ 
+One example is the 20-year-long collusive information sharing facilitated by a third-party consultant in a DOJ case about poultry processors fixing wages of their plant workers (see here <https://protect-eu.mimecast.com/s/u9PvC7Ax5SZ03E3FRob1F?domain=content.mlex.com> ). As the DOJ recognizes, those techniques have now become far more advanced than one can appreciate, and they exist in every single industry. The agency’s antitrust chief, Jonathan Kanter, has put companies on notice that market realities spurred by technology are relevant in a cartel case.
+ 
+Kanter warned them that algorithms and artificial intelligence have the ability to facilitate price-fixing and if companies use programmatic tools, they need to start training their AI if they want to avoid cartel enforcement action by DOJ (see here <https://protect-eu.mimecast.com/s/HOiUC89y5CYAnOnczeUdW?domain=content.mlex.com> ).
+ 
+The DOJ's antitrust division is not completely unfamiliar with machine-based collusion. In 2015, it obtained a guilty plea from David Topkins, a former executive at Art.com, on charges of price-fixing posters sold online through Amazon Marketplace.
+ 
+Topkins used pricing algorithm software to set prices of posters, and he wrote computer code that instructed the software to set prices pursuant to agreements with his co-conspirators. Topkins was sentenced by a federal judge in San Francisco to serve three years of probation and pay a $20,000 fine in 2017 (see here <https://protect-eu.mimecast.com/s/YekmC92z5f26oRouZy2qp?domain=content.mlex.com> ).
+ 
+And back in 1994, the DOJ settled a price-fixing suit against six major US airlines, including Alaska Airlines, United Airlines and American Airlines, over a joint computerized fare information system that allowed the airlines to float "trial balloon" price increases, make and receive counterproposals, and reach consensus on the amount and timing of price increases or the removal of discounts (see here <https://protect-eu.mimecast.com/s/1n_ZC09n6Cm96J6soDCHs?domain=content.mlex.com> ).
+ 
+Much like the airlines’ 1990s price-comparison software, the RealPage algorithm facilitates a cartel that allows landlords to avoid price wars that drive down rents when there is an oversupply of housing, plaintiffs in the current litigation allege.
+ 
+—Grains of sand—
+ 
+Since 2016, the RealPage algorithm has become another form of machine-based collusion that has replaced communication between human conspirators, as it became increasingly prominent in the US housing market, plaintiffs claim.
+ 
+The YieldStar system is a pricing algorithm that can instantly compare huge amounts of data far beyond the capacity of human conspirators, suits by Blosser and other plaintiffs allege.
+ 
+The algorithm can ingest “data that is ‘as fine and granular as bits of sand,’ including rents charged for each unit and each floor plan, lease terms, amenities, move-in and move-out dates. RealPage takes this data — 'literally hundreds of variables,’ according to founder and former CEO Steve Winn — and recommends a price for each unit that a Lessor owns, giving the Lessor the courage to charge an inflated price by the implicit assurance that all of their competitors were doing the same,” an antitrust complaint filed in federal court in Southern California last year says (see here <https://protect-eu.mimecast.com/s/IoDnCgkqgIGjVPVc6M03v?domain=content.mlex.com> ), quoting RealPage’s marketing materials.
+ 
+By sharing their properties’ data with RealPage and agreeing to follow its pricing and leasing guidance, property managers join a cartel in which the YieldStar/AI Revenue Management is the hub.
+ 
+“Property managers who use YieldStar/AI Revenue Management do so with the explicit and common goal of increasing rents for all members of the cartel by using coordinated algorithmic pricing,” says Blosser’s May 4 complaint.
+ 
+That AI-based collusion “not only facilitates price hikes, but it also allows conspirators to maintain higher prices. RealPage claims that Defendant property managers and their co-conspirators were able to maintain rent prices 7 percent above the competitive market rate.”
+ 
+That behavior has consequences for consumers, politicians and critics of RealPage say, by driving up housing costs and exacerbating a shortage of affordable housing.
+ 
+“Intentionally holding units vacant, when there are so few homes available, decreases a consumer’s negotiating power and exacerbates the housing shortage,” US Senator Sherrod Brown, an Ohio Democrat, told FTC Chair Lina Khan late last year (see here <https://protect-eu.mimecast.com/s/xV9NCjnwlURwplphgH1Jv?domain=content.mlex.com> ), asking the FTC to investigate RealPage.
+ 
+Sent: 	Thursday, May 11, 2023 4:09 PM
+ 
+Subject:          	Algorithmic collusion leaves ‘digital trail’ for enforcers to use in court, US DOJ official says | Insight
+ 
+  <https://content.mlex.com/images/MLex_Logo_Rmark.png>   
+ 
+Algorithmic collusion leaves ‘digital trail’ for enforcers to use in court, US DOJ official says <https://protect-eu.mimecast.com/s/c6S5C49r7ClG3QMFOCypU?domain=content.mlex.com>   	
+11 May 2023	|	20:05 GMT    |	Insight       	
+By Michael Acton        	
+Algorithmic collusion leaves a digital trail that is “gold dust” for enforcers if they bring court cases, and the US Department of Justice’s antitrust division is hiring experts who can make sense of code and determine whether price-fixing or other antitrust violations have occurred, the head of the division’s San Francisco office said today.         	
+Algorithmic collusion leaves a digital trail that is “gold dust” for enforcers if they bring court cases, and the US Department of Justice’s antitrust division is hiring experts who can make sense of code and determine whether price-fixing or other antitrust violations have occurred, the head of the division’s San Francisco office said today.
+ 
+“I think one thing that hasn’t been talked about a lot is that, when we are dealing with algorithms and AI, we also need to think about where we are going to be looking for evidence of criminal conduct,” Leslie Wulff said, speaking in a personal capacity at a conference today.*
+ 
+“As an enforcer, one of the things that I am actually really excited about is that, when we are thinking about algorithmic collusion cases, algorithms and other software code actually leave behind a digital trail,” she said. “That means we can get the code, we can analyze it, and we can figure out what actually happened.”
+ 
+“That kind of evidence is actual gold — so what that means is that we are going to need to rely on the experts so that they can get the code, analyze it, and explain it so someone like me, a lawyer, can understand, and I can help the jury understand,” Wulff said.
+ 
+The US DOJ's Expert Analysis Group will provide the expertise in such investigations, she said.
+ 
+“We very much need to make sure that we are more than just legal experts,” Wulff said. “It’s going to be a home for all kinds of experts, not just economic experts. We’re talking about data scientists, technologists, industry experts in a variety of fields.”
+ 
+Wulff reiterated comments she made at the American Bar Association’s Antitrust Spring Meeting, warning that companies must be actively monitoring the algorithms that they use to ensure that they are in compliance with antitrust laws (see here <https://protect-eu.mimecast.com/s/lAaNC5Wv5u6O4Q5cOszlX?domain=content.mlex.com> ).
+ 
+One of the reasons that algorithms and AI have become such a hot topic in antitrust, Wolff said, is that they reach a wide variety of industries, including traditional sectors that may have drawn less scrutiny than the biggest digital platforms in recent years.
+ 
+In January, Las Vegas hotels were hit with a private lawsuit accusing them of fixing room prices with algorithms (see here <https://protect-eu.mimecast.com/s/vcsAC60w5Hyx8AjcmbTRk?domain=content.mlex.com> ).
+ 
+“I think the question of why that is, is in part because we are not just talking about Big Tech companies, we are talking about what are often historically low-tech industries using very high-tech solutions,” Wolff said.
+ 
+— Section 2 — 
+ 
+Wulff was also asked about the DOJ’s recent push to enforce Section 2 of the Sherman Act as a criminal statute, which marked a major departure for the division after decades without it bringing such cases.
+ 
+Section 2 concerns single-firm conduct, specifically monopolization or attempts to monopolize a market. In October, the DOJ secured a criminal guilty plea for a Section 2 violation from a Montana paving and asphalt contractor (see here <https://protect-eu.mimecast.com/s/3u5_C7Ax5SZ9ox4hNT40g?domain=content.mlex.com> ).
+ 
+Wulff said there was “ample precedent” for lawyers to figure out what conduct might amount to a criminal violation of Section 2.
+ 
+“We have a long history of criminal Section 2 prosecutions, over 180 by our last count, so you can pull those up and read them,” she said.
+ 
+Wulff also said that, per Title III of the Omnibus Crime Control and Safe Streets Act of 1968, criminal Section 2 violations can be subject to a wiretap, meaning there are a wide variety of tools at the division’s disposal in such cases.
+ 
+Sent: 	Friday, March 31, 2023 3:27 AM
+ 
+Subject:          	US enforcers express dire need for experts able to unlock 'black box' algorithms for judges, juries | Insight
+ 
+  <https://content.mlex.com/images/MLex_Logo_Rmark.png>   
+ 
+US enforcers express dire need for experts able to unlock 'black box' algorithms for judges, juries <https://protect-eu.mimecast.com/s/gpU3Cxl0DtQLYvYC8USNn?domain=content.mlex.com>   	
+31 Mar 2023	|	07:23 GMT    |	Insight        	
+By Chris May and Khushita Vasant       	
+Antitrust enforcers across the US government are embarking on a “huge undertaking” to digest datasets of previously unimaginable size and demystify the “malfeasance hidden behind the code” of complex algorithms for judges and juries, US antitrust enforcers said today.       	
+Antitrust enforcers across the US government are embarking on a “huge undertaking” to digest datasets of previously unimaginable size and demystify the “malfeasance hidden behind the code” of complex algorithms for judges and juries, US antitrust enforcers said today.
+ 
+“Industry experts and lay witnesses who are able to explain how technology works in ways that a judge or jury can understand, those people are worth their weight in gold, " Daniel Guarnera, acting chief of the US Department of Justice's civil conduct task force for antitrust, said at a conference.*
+ 
+In September, the division explained various aspects of Google’s business activities core to a landmark federal antitrust lawsuit during a day-long “tutorial” that packed a courtroom of the US District Court for the District of Columbia (see here <https://protect-eu.mimecast.com/s/f400Cym4EUy7xoxUMPQNY?domain=content.mlex.com> ).
+ 
+Requests from judges for such tutorials may become more common in cases involving digital markets, Guarnera said.
+ 
+James Lloyd, the antitrust chief at the Texas Attorney General’s office, said a “key new enforcement frontier” is on the horizon as artificial intelligence gains increasing attention from industry innovators, incumbent monopolists and competition authorities.
+ 
+“For us as enforcers, it's going to be a challenge to find how to apply the prior frameworks for collusive pricing to a new model that is undeniably powerful – it impacts us to an extraordinary degree in our lives,” he said.
+“Digging into that black box” will require both “a whole new set of economic tools we haven't seen before” and industry participation to inform enforcers “when something’s gone wrong,” Lloyd said.
+ 
+During a separate salon later in the day, a top FTC privacy official faced pushback on his evocations of Kafkaesque injustices perpetrated by discriminatory, privacy-violating algorithms by an appeal for regulatory caution – despite the critic’s acknowledgement of “some pretty scary stuff going on out there (see here <https://protect-eu.mimecast.com/s/9XndCzn8GUmG5q5Hg-_xC?domain=content.mlex.com> ).
+ 
+According to Guarnera, the goal of both the DOJ and FTC is to understand what’s “beneath the hood” of complex algorithmic products, which can also mystify industry participants.
+ 
+Investigations and litigation involving digital platforms require ingesting, processing and analyzing “scales of data that even 10 years ago would not have been even thought possible,” he said.
+ 
+As with the US federal agencies, overseas enforcers are in the midst of recruitment for specialized technologist positions to tackle what European competition official Alberto Bacchiega called a “double challenge.”
+ 
+“On the one hand, we need to understand how technology works, because we are either regulating or investigating the companies that actually are at the cutting edge of technology. But also we need to use technology for our own investigations,” Bacchiega said.
+ 
+Tara Koslov, the deputy director of the FTC’s Bureau of Competition, predicted that “ we're going to end up in a place where we really have to talk about all companies as Big Tech companies.”
+ 
+“Many traditional brick and mortar companies and industries are increasingly becoming suffused with technology, including some of the AI tools that we were just talking about,” Koslov said. “Because they are all using it and applying it to their existing business models.”
+ 
+— Warning call —
+ 
+Lloyd of the Texas AG said it is a challenge to find experts and technologists because the industry is so new.
+ 
+“I wish to see university programs starting to develop digital markets expertise, even to train students to train the next generation of technologists,” he said. “If you go back to the university systems, it's so broad. They don't have that specificity yet.”
+ 
+Institutions have to catch up to it, he said. “It's a call, it's a warning to us to make sure that we can get those higher education opportunities for people going into the high-tech sector with professors who care about these markets, because that actually helps enforcers, if you have a broader sense of how the market actually works,” Lloyd said.
+ 
+*American Bar Association Antitrust Spring Meeting 2023. Washington, DC. March 29-31, 2023.
+ 
+ 
+Sent: 	Thursday, March 30, 2023 7:15 PM
+ 
+Subject:          	US FTC highlights need for human participation in algorithmic decisions | Insight
+ 
+  <https://content.mlex.com/images/MLex_Logo_Rmark.png>   
+ 
+US FTC highlights need for human participation in algorithmic decisions <https://protect-eu.mimecast.com/s/fPsWCOZvrf2Nk75hE3F90?domain=content.mlex.com>   	
+30 Mar 2023	|	23:11 GMT    |	Insight        	
+By Mike Swift   
+The US Federal Trade Commission will continue to enforce artificial intelligence guidelines that require human involvement and ongoing vigilance to ensure algorithms aren’t leading to discriminatory outcomes, and the FTC sees both a competition and privacy element to its AI regulation, an official said today.          	
+The US Federal Trade Commission will continue to enforce artificial intelligence guidelines that require human involvement and ongoing vigilance to ensure algorithms aren’t leading to discriminatory outcomes, and the FTC sees both a competition and privacy element to its AI regulation, an official said today.
+ 
+Speaking at a conference* in Washington, DC, Mark Eichorn, assistant director of the FTC’s Division of Privacy and Identity Protection cited guidance the FTC issued in 2020 (see here <https://protect-eu.mimecast.com/s/AznhCPYwvF50njvu0bG6G?domain=content.mlex.com> ) and 2021 (see here <https://protect-eu.mimecast.com/s/3m2WCQOxwtNXL2BUMQjBK?domain=content.mlex.com> ) that requires companies to make their data training sets representative of the US population, to search out biases in the output of automated decision-making algorithms, and to understand how even the most complex algorithm actually arrives at a result.
+ 
+“If you don’t really understand how your algorithm works, that can be problematic,” Eichorn said, drawing a parallel between Franz Kafka’s “The Trial” and the feelings of a person subject to a decision by an algorithm that can’t be explained by a human. “If you don’t’ have a human in the loop, it sort of makes me think of Kafka,” Eichorn said.
+ 
+The FTC official received some pushback, however, from Steven Tadelis, an economist at the University of California-Berkley Haas School of Business, who warned about the dangers of over-regulation. Privacy laws such as Europe’s General Data Protection Regulation and Apple’s App Tracking Transparency initiative (see here <https://protect-eu.mimecast.com/s/G5HGCRLyxCgGXMnuOlKyZ?domain=content.mlex.com> ) can harm startups in favor of large incumbents and make it tougher for consumers to see ads for products they might want to buy, Tadelis said.
+ 
+“Regulation is a big ship, and once it’s set in its path, it’s very hard to move. What I’m really advocating is caution, not no regulation,” Tadelis said. “We’re going to need regulation. There’s some pretty scary stuff going on out there. But we need time to understand which things are going to be broken and which aren’t.”
+ 
+“The mission of ‘move fast break things,’” he added, quoting Facebook founder Mark Zuckerberg’s famous slogan, “you can’t do that as a regulator. You can maybe do that as a startup.”
+ 
+*American Bar Association Antitrust Spring Meeting 2023. Washington, DC. March 29-31, 2023.
+ 
+Please email editors@mlex.com to contact the editorial staff regarding this story, or to submit the names of lawyers and advisers.   
+ 
+ 
+Sent: 	Thursday, March 30, 2023 12:45 PM
+ 
+Subject:          	Pricing algorithms aren't 'set it and forget it,' US DOJ antitrust official says | Insight
+ 
+  <https://content.mlex.com/images/MLex_Logo_Rmark.png>   
+ 
+Pricing algorithms aren't 'set it and forget it,' US DOJ antitrust official says <https://protect-eu.mimecast.com/s/B0n9CrYGwFDr1x5h7mkgu?domain=content.mlex.com>   	
+30 Mar 2023	|	16:41 GMT    |	Insight        	
+By Mike Swift   
+The US Department of Justice is already using computer algorithms to detect and potentially prosecute illegal collusion by pricing algorithms, but its antitrust division is also studying how artificial intelligence and machine learning are evolving to detect any abuses new technology may enable, a senior DOJ official said today. 	
+The US Department of Justice is already using computer algorithms to detect and potentially prosecute illegal collusion by pricing algorithms, but its antitrust division is also studying how artificial intelligence and machine learning are evolving to detect any abuses new technology may enable, a senior DOJ official said today.
+ 
+Speaking at a conference* in Washington, DC, Leslie Wulff, acting chief of the DOJ antitrust division’s San Francisco office, noted antitrust division Chief Jonathan Kanter’s recent speech (see here <https://protect-eu.mimecast.com/s/9LtFCvjMAHyE2vDCXLxwR?domain=content.mlex.com> ) where he alluded to hockey great Wayne Gretzky’s philosophy of skating to where the puck is going to be rather than where it is now. 
+ 
+“I'm not a hockey player — far from it — but the idea being that if we think about our enforcement just to meet the market realities of today, we're already behind,” Wulff said. “So, of course, that's not what we're doing. We're looking to where the market is going to be, so that we are ready — and I think we are ready — to bring enforcement actions based on where the market is going.”
+ 
+As a result, the antitrust division is hiring data scientists, computer scientists and economists to help its lawyers decide what type of evidence the DOJ should be gathering to prepare to bring enforcement actions. “That’s what’s really exciting about this coming moment,” Wulff said.
+ 
+Last year, the DOJ hired data scientist Laura Edelson as its chief technologist to serve in its Expert Analysis Group, which is led by the antitrust division’s chief economist, Susan Athey.
+ 
+Despite worries that pricing algorithms based on the ability of AI to analyze and rapidly respond to vast amounts of pricing data could “learn” how to illegally collude to fix prices, Wulff said the DOJ believes humans are ultimately responsible for what their algorithms do.
+ 
+“I don't want anyone in the room to forget that humans program algorithms,” Wulff said, who gave the standard disclaimer that she was speaking for herself and not on behalf of the DOJ. “That means that there are humans responsible for putting the algorithms into existence in the first place.”
+ 
+The DOJ, she said, is likely to insist that companies actively monitor the pricing decisions their algorithms are making over time.
+ 
+“I also understand that algorithms can learn. So can humans. And so I would suggest that algorithms aren't some sort of, like, ‘set it and forget it, and come back in 50 years and see what the robots have done.’ Perhaps companies have a responsibility to check in on their algorithms, see what they're learning, see how they're adjusting to current market realities.”
+ 
+It’s been more than seven years since the DOJ prosecuted David Topkins, a former e-commerce executive, who pleaded guilty in San Francisco to using algorithms to fix the prices of posters (see here <https://protect-eu.mimecast.com/s/gVMQCwkNBIRvAoDu9LB8C?domain=content.mlex.com> ). Despite concerns by experts that the availability of more pricing data and more powerful AI-powered algorithms could allow tacit collusion by pricing robots, the DOJ is already using pricing algorithms to search for patterns that may indicate illegal behavior, Wulff said.
+ 
+ “Algorithms leave behind a digital trail, which is great from an enforcement perspective. It means that we can get that code, see what it was programmed to do, see what it did,” she said. “That kind of evidence is phenomenal, right? If we have that, we can actually see what happened, and in some ways enforcement becomes easier. So, I just want to be very clear that I don’t think we're entering some sort of brave new world that where suddenly we have to reexamine everything that's come before.”
+ 
+ *American Bar Association Antitrust Spring Meeting 2023. Washington, DC. March 29-31, 2023.
+ 
+ 
+Sent: 	Wednesday, March 22, 2023 7:39 AM
+ 
+Subject:          	Comment: Fear of inflation-driven price fixing spurs antitrust watchdogs to test boundaries | Comment
+ 
+  <https://content.mlex.com/images/MLex_Logo_Rmark.png>   
+ 
+Comment: Fear of inflation-driven price fixing spurs antitrust watchdogs to test boundaries <https://protect-eu.mimecast.com/s/1_4eCXMGEtBRkklF6wAEd?domain=content.mlex.com>   	
+22 Mar 2023	|	11:35 GMT    |	Comment  	
+By Tono Gil    	
+Globally rampant inflation has seen antitrust authorities face extraordinary public and government pressure to act against companies riding the wave to ramp up prices, but a lack of evidence of collusion has left many regulators feeling impotent. That has brought a focus onto countries such as the UK and Greece, which can use market investigations or rules on unilateral conduct to combat anticompetitive behavior.
+Antitrust authorities are facing unprecedented pressure from governments and the public to come down hard on companies riding the inflation wave to sneak through unfair price rises that exacerbate cost-of-living pressures.
+ 
+From the US to the Netherlands, watchdogs are calling for powers beyond their traditional toolbox to catch anticompetitive activities, including mechanisms such as market investigations and rules on unilateral conduct.
+ 
+Sectors where prices are spiraling — from fuel to groceries — are being closely watched, but a lack of evidence of collusion despite steep price hikes has left many regulators feeling impotent. That has shone a spotlight on countries such as the UK or Greece that have other ways to combat would-be cartelists.
+ 
+Although enforcers often stress that bringing down inflation isn't their job (see here <https://protect-eu.mimecast.com/s/nQE4CYMJGtkqjjKSGEbyL?domain=content.mlex.com> ) — that's for central banks and national governments — they have an important role to play by ensuring that it isn't compounded by companies colluding to increase prices.
+ 
+There are concerns about companies aligning to use the inflationary cycle as a convenient excuse to increase their profit margin. At the sight of price hikes, consumers and governments turn to competition authorities to see their suspicions confirmed.
+ 
+But uncovering any anticompetitive behavior is increasingly hard as companies find more sophisticated ways to collude. The old stereotype of executives shaking hands on their price-fixing plans in smoke-filled backrooms has given way to algorithms and discreet means of communication.
+ 
+So how do enforcers face these challenges now that they seem more pressing than ever?
+ 
+— Market investigations —
+ 
+Instead of targeting one or more companies in particular, some antitrust watchdogs can put an entire sector under the microscope to check the health of competition there.
+ 
+In the UK, the Competition and Markets Authority can conduct market investigations if it identifies that there are features of a market that have an “adverse effect" on competition. It then has a broad range of options to address that, including structural remedies, measures to reduce market entry barriers, policy recommendations and even price controls.
+ 
+For example, the regulator obliged all hospitals treating private patients to publish information about the quality of their service and, in a separate probe, it ensured that new entrants to a local bus market would have access to bus stations under fair conditions.
+ 
+Greece has similar rules. Its watchdog is currently scrutinizing the fuel industry, under heavy fire recently for price increases, over asymmetric changes in fuel prices compared to costs.
+ 
+The advantage of a market investigation is that it can identify larger harmful trends across, say, supply chains, and act to correct them. There is no need to catch a company in the act, which gives a watchdog greater discretion to intervene, and no need to limit the range of response to a few bad apples, which increases the potential sphere of influence of a decision to tackle inflation-driven issues.
+ 
+But market interventions need to be grounded in identified competition issues, and the remedies to tackle them need to be “proportionate,” a standard that can be hard to meet.
+ 
+Despite the flexibility that this tool provides, only a few enforcers have it in their arsenal. The European Commission decided not to implement it following a consultation in 2020, and calls to revive the idea by EU lawmakers (see here <https://protect-eu.mimecast.com/s/yRPtCZWKJuPLXX1TKPv07?domain=content.mlex.com> ) and the Dutch competition authority (see here <https://protect-eu.mimecast.com/s/GH7fC19o8CnoLLrHXg9fs?domain=content.mlex.com> ) have so far fallen on deaf ears.
+ 
+— Tacit collusion —
+ 
+The question of how to catch companies that coordinate strategies without explicitly exchanging information or communicating has tormented antitrust enforcers for years, but it has been brought into sharp focus by widespread price rises.
+ 
+Traditionally, it takes two or more firms to collude, but there are enforcers trying to tackle unilateral conduct under rules against anticompetitive agreements instead of through the abuse of dominance textbook.
+ 
+What if a CEO flags in an interview that his company will increase prices by 5 percent and suggests that competitors should do the same if the sector wants to survive the energy crisis? It is a message that only goes one way, but it could be seen as an invitation to collude.
+ 
+Last year, Greece amended its competition law to prohibit companies from “in any way” inviting another company to take part in an agreement to fix prices, share markets or control supply chains.
+ 
+Greece has also prohibited “price signaling,” defined as communicating on prices, discounts, offers or credits if this action distorts competition and is not a “standard commercial practice.”
+ 
+US enforcers can also pursue these cases under Section 5 of the Federal Trade Commission Act, which prohibits “unfair methods of competition” and has already been used to tackle invitations to collude.
+ 
+The FTC stated in November its intention to use Section 5 to ensure companies with market power can't “exploit the current inflationary environment to further raise prices” (see here <https://protect-eu.mimecast.com/s/u14_C29p5CKX00Lf9h0LT?domain=content.mlex.com> ).
+ 
+— March of the algorithms —
+ 
+Rapid advances in computing have added dangers to the antitrust world, notably in the form of algorithmic pricing. This refers to the shift from manual price setting to the increasing reliance on sophisticated software and even AI applications to automatically identify pricing patterns in the market and adapt to them.
+ 
+Especially in times of inflation, this can translate into a spiral of price increases as algorithms replicate upward trends in the market, which pushes other competitors to also raise prices, which feeds back into the algorithm to keep prices going up.
+ 
+Two weeks ago, US senators urged the Department of Justice to investigate YieldStar, a platform using algorithms to recommend rental prices to landlords, for “de-facto price setting and driving rapid inflation” (see here <https://protect-eu.mimecast.com/s/kZiEC39q5C7lWWjSvxG23?domain=content.mlex.com> ).
+ 
+Algorithmic pricing erases the need for competitors to explicitly agree on pricing policies, which makes these practices hard to pursue.
+ 
+One challenge here is a lack of coordination between countries to address the problem. For example, the Portuguese competition authority is trying to scrutinize the sector, but many of the algorithm developers contacted by the watchdog are based in the US, China or the UK, so they fall outside of its jurisdiction (see here <https://protect-eu.mimecast.com/s/xR3VC49r7CYORRZUjDvXC?domain=content.mlex.com> ).
+ 
+Inflation always presents a challenge for antitrust watchdogs tasked with weeding out illicit drivers of price rises. But in the current bout, with its sharp focus on widespread cost-of-living pain, the need for out-of-the-box initiatives has been highlighted.
+ 
+It remains to be seen how or where this might lead to significant change with competition enforcers handed powers they see being exercised in other jurisdictions, but as long as the inflation charts keep making headlines, the pressure will be there.
+ 
+ 
+Sent: 	Thursday, March 16, 2023 7:32 PM
+ 
+Subject:          	Digital platforms' competition impact is 'significant and systemic,' Australian official says | Official Statement
+ 
+  <https://content.mlex.com/images/MLex_Logo_Rmark.png>   
+ 
+Digital platforms' competition impact is 'significant and systemic,' Australian official says <https://protect-eu.mimecast.com/s/JKF8C89y5CODm8LUnzLPg?domain=content.mlex.com>   	
+16 Mar 2023	|	23:26 GMT    |	Official Statement  	
+          	
+ 
+ 
+Sent: 	Thursday, February 2, 2023 5:44 PM
+ 
+Subject:          	US DOJ to withdraw policy statements on health care information exchanges, mergers to face more scrutiny, Mekki says | Insight
+ 
+  <https://content.mlex.com/images/MLex_Logo_Rmark.png>   
+ 
+US DOJ to withdraw policy statements on health care information exchanges, mergers to face more scrutiny, Mekki says <https://protect-eu.mimecast.com/s/MQ_cCD0O5HovX4OtWhVb9?domain=content.mlex.com>   	
+2 Feb 2023	|	22:40 GMT    |	Insight           	
+By Khushita Vasant     	
+The US Department of Justice’s antitrust division will revisit or withdraw three key sets of policy statements on health care that address information exchanges, with no plans yet on replacing them, principal deputy assistant attorney general Doha Mekki said.      	
+The US Department of Justice’s antitrust division will revisit or withdraw three key sets of policy statements on health care that address information exchanges, with no plans yet on replacing them, principal deputy assistant attorney general Doha Mekki said today.
+ 
+The DOJ will also heavily scrutinize mergers involving companies with a history of anticompetitive information exchange, Mekki said during a keynote speech* outlining the DOJ's experience of detecting and rooting out anti-competitive information changes.
+ 
+"First, the division will revisit or withdraw ... outdated policy statements, and policy statements and guidance documents [that] are no longer reflective of the market realities, or they fail to accurately reflect how the division thinks about competition issues," she said. "We have no immediate plans to replace them."
+ 
+The division must revisit the issues with a broader perspective, she said.
+ 
+Mekki said the DOJ and Federal Trade Commission have issued three sets of statements concerning the health care industry since 1993.
+ 
+The first of these, "Antitrust Enforcement Policy Statements Issued for Health Care Industry," was released in 1993. It included six separate policy statements on topics such as hospital mergers; hospital joint ventures involving high-technology or other expensive medical equipment; physicians' provision of information to purchasers of health care services; hospital participation in exchanges of price and cost information; health care providers’ joint purchasing arrangements; and physician network joint ventures.
+ 
+In August 1996, the two agencies issued another series of antitrust enforcement policy in health care that revised and expanded the 1993 guidance. In 2011, the DOJ and FTC issued a statement of antitrust enforcement policy regarding accountable care organizations participating in the Medicare Shared Savings Program.
+ 
+Several of these documents address information exchanges in some form, Mekki said. "Much has changed in health care in the 30 years since the statements were issued."
+ 
+— Detecting modern competition harms —
+ 
+The delivery of health care products and services and, in some cases, the antitrust community's understanding of health care economics has evolved, too, she said. Health care is now a data-intensive industry that relies on the power of machine learning, artificial intelligence and other advanced tools to develop or deliver products or services. These realities affect buyers, the way buyers or sellers engage in health care transactions in which they participate, and the way health care firms compete with one another, Mekki said.
+ 
+"We are no longer confident that these statements fully reflect the existing market reality and the full scope of liability under the antitrust laws," the DOJ official said.
+ 
+These documents also set out reported safety zones around the exchange of certain competitively sensitive information. Mekki said throughout its enforcement and policy work, the DOJ has had "serious concerns" about whether the factors set out in the safety zones are appropriate for the industry as it exists today.
+ 
+For instance, suggestions for the use of a third-party intermediary to facilitate information exchange is based on outdated notions of third-party intermediaries, she said. "Exchanges facilitated by these intermediaries can have the same anticompetitive effect as direct exchange among competitors."
+ 
+Similarly, the suggestion that data that's at least three months old is unlikely to be competitively sensitive or valuable is underpinned by the rise of pricing algorithms that can increase the competitive value of historical data, Mekki said.
+ 
+By withdrawing the health care statements, Mekki said the DOJ hopes the public will have better insight into the division's current practices and approach to enforcement in this industry.
+ 
+Mekki also called for reconsideration of whether the agency's traditional guideposts on market structure and the nature of the data exchange are sufficiently sensitive to detect modern competition harms.
+ 
+"To the extent new technologies or other changes in market realities have altered the competitive value of different types of data, our traditional guide posts — at least as originally conceived — may prove unhelpful in answering the ultimate question, 'is competition likely to diminish?'" she said.
+ 
+— Heavier scrutiny of mergers —
+ 
+The DOJ's investigations into anticompetitive exchanges of information aren't limited to Section 1 of the Sherman Act, according to Mekki.
+ 
+"Mergers will be scrutinized more heavily when there's a prior history of anticompetitive information exchanges," Mekki said. "Where the division is presented with a proposed merger in an industry with a history of coordination or collusion, that context will play heavily in our evaluation of the transaction under Section 7."
+ 
+When the DOJ is aware that an industry already has engaged in such coordination, "our concerns become less theoretical," Mekki said.
+ 
+Merging parties will face an "uphill battle convincing us" that post-merger coordination or collusion is unlikely, especially when one of the merging parties has participated in anticompetitive information exchanges.
+ 
+"And I should also have even declared that mergers might ultimately fall under the structural presumption," she said, "evidence that one or more merging parties participating in anti-competitive information exchange, I think, will probably gather more attention in merger reviews.”
+ 
+Mekki called for a "whole-of-government approach" to anticompetitive information exchanges.
+ 
+ 
+Sent: 	Tuesday, November 1, 2022 5:45 PM
+ 
+Subject:          	Comment: New US FTC Commissioner Bedoya signals support for broad view of online privacy harms | Comment
+ 
+  <https://content.mlex.com/images/MLex_Logo_Rmark.png>   
+ 
+Comment: New US FTC Commissioner Bedoya signals support for broad view of online privacy harms <https://protect-eu.mimecast.com/s/amqhC92z5fpYGNhomRyC?domain=content.mlex.com>   	
+1 Nov 2022	|	21:40 GMT    |	Comment     	
+By Mike Swift   
+Alvaro Bedoya, a prominent privacy scholar who joined the US Federal Trade Commission in May as a third Democratic commissioner, believes "privacy protects people, not data," underscoring his broad view for how the US enforcer should regulate the collection and use of personal data. In one of his first media interviews, Bedoya spoke with MLex about topics ranging from his conviction that the FTC needs to add psychologists to the FTC staff to the agency's case against Kochava and Bedoya's view that Americans need better control over the use of their location data.        	
+The US Federal Trade Commission traditionally has been staffed by lawyers, economists and — more recently — by computer scientists who untangle the complex workings of online platforms. Alvaro Bedoya says the FTC needs to hire a new type of expert to study online harm: psychologists.
+ 
+“We've got a CTO [Chief Technology Officer] and we've got top-flight engineers that can look at that, but there is not one full-time psychologist on staff,” the newest commissioner said, growing animated in a recent conversation. “And yet speak — speak! — to a parent of a child or a teenager and ask them what they're concerned about for their children. One of the themes is going to be what's happening to our children online.”
+ 
+In one of his first one-on-one media interviews since joining the FTC, the first digital privacy expert to join the commission talked to MLex about topics ranging from his efforts to bolster internal communication at the agency to his view of the privacy risks of the metaverse, as well as the risks to children and teens from addictive algorithms driven by the collection of their personal data.
+ 
+Bedoya, an influential privacy scholar and former US Senate staffer, joined the FTC in May as the third Democratic member of the five-member commission (see here <https://protect-eu.mimecast.com/s/UiCbC09n6CLr1gCDKFEE?domain=content.mlex.com> ). Within the FTC, he's already acquired a reputation as a communicator, taking it upon himself to meet with a cavalcade of staffers over coffee during his first five months at the agency, particularly those in the Bureau of Competition who, in an annual survey, voiced significant morale issues (see here <https://protect-eu.mimecast.com/s/h4SvCgkqgI7YMwC27Gg8?domain=content.mlex.com> ).
+ 
+Bedoya has reached across the aisle to build a relationship with Christine Wilson, currently the sole Republican on the commission and a sharp critic of Chair Lina Khan.
+ 
+Are addictive algorithms really a privacy issue?
+ 
+“This is how our brains work. I can't think of something more private,” Bedoya said. “If someone alleges that a technology or a product is harming their mental health in a way that is medically diagnosable, is that a health harm? Yes. Is that a privacy harm? I also think it's a privacy harm.”
+ 
+Section 5 of the FTC Act, the agency’s primary enforcement tool, doesn’t contain the word “privacy,” he noted.
+ 
+— Flight to USA —
+ 
+Himself a parent of two young children, Bedoya said the FTC needs to better understand whether there are harms to children and teens  from the use of their personal data by social media platforms, and he said tech companies worried about regulatory risk are already hiring psychologists to answer that question. The Democratic commissioner gave credit to Republican US Representative Cathy McMorris Rodgers of Washington state, who is also one of the architects of the American Data Privacy and Protection Act, for the idea of adding child psychologists to the FTC staff.
+ 
+It’s easy to see why people find Bedoya engaging. On a Zoom call, the commissioner beat a reporter to the first question and started asking with interest about the significance of personal items he could see in the background in the reporter’s home office.
+ 
+In a recent stream of emotional Tweets, Bedoya posted a photo of two spoons his mother got permission to keep on the Lufthansa flight to the US when his family emigrated from their native Peru in the 1980s. The Bedoya family wasn’t sure they would have utensils in their new home.
+ 
+“Why share this? Because it's been 35 years, and I am filled with gratitude at everything this country has given me,” tweeted the commissioner, who grew up in upstate New York (see here <https://protect-eu.mimecast.com/s/41gpCjnwlUvyWGC7OYG0?domain=twitter.com> ). “I spend a lot of time thinking about my mother, who changed professions, raised two boys mostly by herself for many years when my dad moved away for work, who made us fiercely proud of who we were even though to most people's eyes we didn't have terribly much.”
+ 
+— Location, location, location —
+ 
+In his early speeches and statements as an FTC commissioner, Bedoya has signaled he will take a broad view of privacy, and that its regulation must go beyond governing the consensual collection of personal data to consider how it's processed, shared and commercialized. For a century, that broader view has been part of American legal thought about privacy, he argued in a speech in September (see here <https://protect-eu.mimecast.com/s/X3T-CkoxmfpqxXhJ5DFz?domain=content.mlex.com> ) before the National Advertising Division's annual conference — perhaps not the friendliest audience for such a view.
+ 
+“There’s a famous saying about the Fourth Amendment, that it protects people, not places. I think that privacy protects people, not data,” Bedoya said in that speech. “And as the FTC considers rules to rein in prevalent unfair and deceptive trade practices, we would be remiss, in light of this longstanding policy, and long history, not to ask questions about all harms from unfair and deceptive practices online.”
+ 
+In the same NAD speech, Bedoya said he was concerned about the “woefully unprotected” state of geolocation data because of the ways it can reveal the most intimate details of a person’s life. Formerly the first chief counsel to the US Senate Judiciary Subcommittee on Privacy, Technology and the Law after its founding in 2011, Bedoya told MLex that even in that job a decade ago, the FTC was telling Congress that consumers should have the right to give affirmative consent before their location is collected and shared.
+ 
+More than a decade later, that has yet to fully happen in the US. “The Commission's interest in [location data] should surprise no one,” Bedoya told MLex.
+ 
+“We have an almost entirely unregulated open market for this information,” he added. “I am most interested in the information when it is not secured appropriately, when it is being loosely given away or sold with little to no protection for how it will be used, or to whom it is being sold. . . . I'm particularly interested in instances where it is being used by parties downstream from the point of initial collection, where I think there's a particularly strong argument that [potential harm] is not reasonably avoidable by consumers.”
+ 
+A key example of what Bedoya hopes will be a continued focus by the FTC on location data is the agency’s recently filed lawsuit against Kochava (see here <https://protect-eu.mimecast.com/s/G2XxClpyntvzQPCYAGfu?domain=content.mlex.com> ), an Idaho data broker the FTC says committed violations of the prohibitions against “unfair” conduct in Section 5 through the sale of consumers’ location data.
+ 
+“I do think it's really important we brought that case. I think it is a solid case. I don't know if I see it as a template. But I do think that the business community should understand that we're serious” about giving US consumers more control over the use of location data, Bedoya said.
+ 
+After leaving the Senate, where he was also chief counsel to Senator Al Franken of Minnesota, an early and vocal advocate of tighter privacy rules, Bedoya became the founding director of the Center on Privacy and Technology at Georgetown University, where he authored an influential paper on facial recognition in 2016.
+ 
+As technology evolves, Bedoya said the FTC will need to consider holistically how people might be harmed by it. That is behind his call for staff psychologists at the FTC. What about the metaverse, Meta Platforms’ CEO Mark Zuckerberg’s vision for how people will soon interact using virtual or augmented reality devices and apps?
+ 
+“The interesting thing about the metaverse is that there is nothing that is not quantified within it. Right? Because it's an entirely synthetic world, every aspect of it is by necessity measured and tracked,” Bedoya said. “So it’s not like when I go about my daily life, aspects of it generate data and aspects of it don’t. Every single thing within the metaverse generates data.”
+ 
+Could the mental health concerns for children and teens for the fully immersive metaverse be even more significant, Bedoya wondered, than the current problems some children have in differentiating between the physical world and the two-dimensional Internet. “How does a developing brain adjust to such an enveloping reality?” he said.
+ 
+— Bipartisan alliance —
+ 
+Location data like that at issue in the Kochava case is a key input to target advertising. An expert witness for the Office of the Arizona Attorney General in its now settled litigation against Google estimated that 95 percent of Google’s ad revenue is tied to location data (see here <https://protect-eu.mimecast.com/s/TuuWCmEzoFrROPFNaELL?domain=content.mlex.com> ). Google disputed that number, but not the central role location data has in targeting ads.
+ 
+As the FTC leans into its privacy rulemaking process, Bedoya says he believes there will always be a way to provide targeted advertising legally — if adults give informed consent. As public comments continue to flow into the FTC for its privacy rulemaking process, Bedoya is carefully reading and thinking about what those disclosures say about how the ad-tech industry works.
+ 
+“There's a way to do it, a way to protect privacy,” Bedoya said of targeted ads. “Are industry practices squarely in line with that? I don't know. And that's something I think we're trying to find.”
+ 
+The Kochava case was also significant in that it drew the support of a Republican commissioner, Wilson, for a case that relies exclusively on the unfairness prong of Section 5. Despite the more politicized culture of the FTC over the past year, Bedoya sees his Republican counterpart as an important ally on privacy.
+ 
+Bedoya reached out to Wilson the same day he was nominated to a seat on the FTC. “I want to work with you on privacy,” he told her. Since joining the agency in 2018, Wilson has been an important voice on privacy (see here <https://protect-eu.mimecast.com/s/BrTjCnzApiY683H0z0rw?domain=content.mlex.com> ), even amid her skepticism about the Democrats’ plan for a wide-spectrum rulemaking effort.
+ 
+As with the other commissioners, Bedoya and Wilson do a weekly call, where they frequently focus on children’s privacy and other data protection issues. “I know some folks on the outside were surprised by that vote,” Bedoya said of Wilson’s backing to sue Kochava. “I wasn’t.”
+ 
+Wilson has also been a pointed critic of Khan’s treatment of staff, saying in June that Khan “has shown nothing but disdain” for senior staffers (see here <https://protect-eu.mimecast.com/s/3uOWCoOBqt0KOPc2px2W?domain=content.mlex.com> ).
+ 
+Bedoya declined to discuss what he’s hearing back from staff about the morale issue, which focused on their view of the FTC’s senior leadership.
+ 
+“The chair is working on this and cares a lot about it,” Bedoya said. “But absolutely, part of those visits was, particularly the competition shops, was trying to figure out what's behind the morale issues.”
+ 
+But the coffee conversations with staff, Bedoya said, have confirmed his feeling after 169 days that he has “a dream job” at the FTC, something he never could have conjured on that flight from Lima to JFK Airport 35 years ago.
+ 
+“These are folks who could go work for private industry any day of the week and make two times what they make — no problem. And they stay where they are doing the work they do . . . because they want to help people,” Bedoya said. “I feel profoundly lucky to be here. And those visits only reinforced that.”
+ 
+Please email editors@mlex.com to contact the editorial staff regarding this story, or to submit the names of lawyers and advisers.   
+ 
+Sent: 	Friday, October 21, 2022 7:41 PM
+ 
+Subject:          	Big Tech faces broad, growing consensus about need for tougher antitrust enforcement, US DOJ's Lawrence says | Official Statement
+ 
+  <https://content.mlex.com/images/MLex_Whiteout_r.png>  	
+ 
+Big Tech faces broad, growing consensus about need for tougher antitrust enforcement, US DOJ's Lawrence says <https://content.mlex.com/#/content/1418957?referrer=email_instantcontentset&paddleid=201&paddleaois=2000>  	
+21 Oct 2022    |    23:30 GMT	|	Official Statement   	
+          	
+MLex Summary: Big Tech faces a "broad and growing consensus" that tougher antitrust enforcement is needed to combat its power, and that the idea of monopolies self-correcting through market forces is erroneous, a DOJ official said today in a keynote speech at Brigham Young University. Antitrust Division Policy Director David Lawrence said there's widespread agreement about the risks created by digital markets, and also that merger enforcement has been subject to a creeping trend of requiring application of the rule-of-reason framework with demonstrated, certain effects — which goes beyond the original requirement of the law.
+Text of speech follows.
+ 
+Antitrust Division Policy Director David Lawrence Delivers Keynote at Brigham Young University Law Conference “Tech Platforms in a New Age of Competition Law”
+ 
+Provo, UT ~ Friday, October 21, 2022
+ 
+Reemerging Areas of Common Ground
+ 
+Remarks as Prepared for Delivery
+ 
+Thank you for the invitation to speak with you today and thank you Clark for that kind introduction. I continue to pinch myself that we are able to hold events like this in person. Over the course of the pandemic, I attended probably a dozen virtual conferences. I like them because they are easier to organize and we often get the benefit of a broader audience and group of participants.
+ 
+But we have also seen the downsides of doing purely virtual events all of the time. The cold edges of debate and disagreement are too stark on a zoom screen. Our monitors don’t yet convey human empathy, and so that dimension of the conversation is lost. The disagreements come through, but the spirit in which they are offered too rarely does.
+ 
+Maybe this is one of the challenges the metaverse will solve for, and we can hold this conference someday on virtual mars. Clark you should start thinking about how to arrange a metaverse lunch.
+ 
+In all seriousness, that’s been one of the lessons of the pandemic for me. We need the warmth of human interaction to connect, understand different perspectives, and find common ground. So where we have it, like today, I embrace it.
+ 
+That’s what I’d like to talk about today, embracing common ground. This event is focused on tech platforms in the new age of competition law. What I find so remarkable about that topic is that, in an era known for disagreement, it is one with a broad and growing consensus. Experts and officials from varied backgrounds recognize pressing challenges, and agree on many aspects of the potential solutions.
+ 
+Indeed, we saw critical antitrust legislation pass the House of Representatives last month, notwithstanding heavy lobbying from world’s most powerful companies. For any watcher of American politics, this was a truly remarkable moment. The floor vote on the Merger Filing Fee Modernization Act passed by a remarkable margin of 242-184. We have learned that a strong majority supports more aggressive and effective antitrust enforcement.
+ 
+This new majority has emerged from a shared concern across our country with the rise of corporate power in the American economy. At the Antitrust Division, we see that in technical ways like dramatically increased price-cost markups, a decrease in new firm formation, and rising indicators of concentration.
+ 
+But in public, the American people see the impacts of too little competition directly. The attention to antitrust in Congress and the media are responding to a popular interest in reinvigorating competition in the American economy. The root cause of the desire for greater antitrust enforcement is the dissatisfaction felt by many millions of Americans with a rise in corporate power and a corresponding reduction in their economic liberty. Individual Americans feel this in subtle but important ways every day, such as when they face too few choices how to connect with their loved ones, what private data will be extracted by whom, or where to sell their labor.
+ 
+Congress is responding, and the Department of Justice has indicated its strong support for passing the Merger Filing Fee Modernization Act and the American Innovation and Choice Online Act in this Congress. We hope to see reforms passed into law soon.
+ 
+Reemerging Areas of Common Ground
+ 
+That is by no means the only area of common ground in the new antitrust era. I have observed that, for all the debate and disagreement, there are many areas of common ground among a large majority of stakeholders. In many cases, unsurprisingly, they are old concepts coming back to the fore. In my time today, I would like to touch on four other areas of what I believe to be reemerging common ground on key principles for competition law enforcement.
+ 
+First, that antitrust supports not only our welfare as consumers, but our liberty as Americans.
+ 
+Second, that enforcers need to stop trying to get it wrong and just try to get it right.
+ 
+Third, that the law forbids mergers that pose incipient threats to competition.
+ 
+Fourth, that new market realities in the digital economy have increased the urgency of action and demand we adapt our analysis.
+ 
+Antitrust Protects Our Welfare and Our Liberty
+ 
+The first area of emerging consensus is that antitrust protects not only our welfare as buyers and sellers, but our liberty as Americans. This is not a new concept of course. It is as old as the Boston Tea Party, when the colonists rejected the British Crown’s effective imposition of a tea monopoly in the new world even though, technically, the price was going down in the short term as a result. And it was present at the creation of the Sherman Act in 1890, when Senator Sherman said in support of his bill that monopoly “is a kingly prerogative, inconsistent with our form of government.”[1]
+ 
+The Supreme Court of course described the Sherman Act as a “comprehensive charter of economic liberty” that “provid[es] an environment conducive to the preservation of our democratic political and social institutions.”[2] It said that in Northern Pacific in 1958, although the critical point about our democratic political institutions is often left out of the quotation.
+ 
+We hear this sentiment now from a range of sources. As one member of Congress recently put it, there is a “real threat . . . when a monopoly controls information in a democracy,” and “competition is the answer.”[3] Another said we need to “break[] the political influence of market-dominant companies,” and yet a third told the Senate floor that “concentrated economic power can be just as dangerous as concentrated political power.”[4] I’ll leave you to guess whose quotes those are, but it would not surprise you they come from prominent members on both sides of the aisle.
+ 
+Indeed, Justice Clarence Thomas recently lamented the “unprecedented . . . concentrated control . . . of speech in the hands of a few private parties.”[5]
+ 
+Why are these old ideas common ground again? Because they are at the heart of our constitutional structure. When I was in grade school civics, I learned that we lived in a capitalist democracy. I am sure most of us here did. But until I studied the antitrust laws, I never understood why we use those words together. What do capitalism and democracy have in common? It is their foundational premise—the liberty of the individual. That is why those words go so well together — capitalism and democracy both demand individual freedom, choice, and opportunity.
+ 
+As antitrust enforcers, the work we do helps prevent our political economy from descending into oligarchy, and guarantees to our people a republican form of government.
+ 
+What does that mean for antitrust enforcement, day in and day out? It means we must aggressively enforce the laws to ensure they provide an environment conducive to the preservation of our democratic political institutions. It is why my next point is so important.
+ 
+Moving on From the Error-Cost-Error
+ 
+The second area of emerging consensus is that enforcers should stop trying to get it wrong on purpose. I am talking, of course, about the so-called “error cost analysis” that bloomed in the 1980s as the key argument for underenforcing the law.
+ 
+The error-cost-error traces most prominently to Judge Frank Easterbrook’s 1984 article on the limits of antitrust. As the argument goes, assuming monopoly is “self-destructive,” “judicial errors that tolerate baleful practices are self-correcting while erroneous condemnations are not.”[6] The assumption that monopoly is self-correcting has been used to justify underenforcement in a wide range of circumstances, ranging from Trinko[7] to the withdrawn Section 2 report briefly issued by the Antitrust Division in 2008.[8]
+ 
+I believe the error-cost-error undergirds an excessive focus on predictive certainty in merger enforcement and has led us to ignore the prophylactic role of the Clayton Act and the Celler-Kefauver Anti-Merger Act. More on that in a moment.
+ 
+There is now an emerging consensus that the error cost framework was a mistake, for several reasons. Professors Herbert Hovenkamp and Jon Baker, writing separately, have both unpacked the history of this unfortunate error in greater detail than I can here.[9]
+ 
+But a few things stand out to me. First, the assumption that markets are inherently self-correcting is not always true. Markets do not self-correct, as we have seen, because entry barriers are quite real, whether exclusionary, regulatory, or natural features of markets. The first two of those barriers to entry — exclusionary and regulatory barriers — arise from the fact that monopoly rents, as it turns out, are profitable. A portion of those rents can then be spent to undermine competitors or pay off third parties, either of which create exclusionary barriers to entry. Meanwhile, regulatory barriers to entry may already exist when a monopoly is obtained, or they may be acquired by spending monopoly rents to influence regulatory and political processes. Indeed, the danger of monopoly to our political process is not a novel proposition — it was one of the core concerns animating the Sherman Act.[10]
+ 
+In addition to those barriers to entry that result from monopoly power, natural characteristics of markets may create significant entry barriers. In the modern economy, network effects are incredibly common — especially when we’re talking about technology platforms. That has enormous benefits for society, but flips Judge Easterbrook’s analysis on its head. A robust literature explains how network effects create barriers to entry and render markets prone to tipping.[11] If anything, markets with network effects skew toward monopoly, not the other way around. If we take error cost analysis seriously, that would augur towards favoring overenforcement, not underenforcement, in these markets.
+ 
+Meanwhile the other side of the argument is wrong as well—judicial errors can be corrected. Often, changing circumstances reveal the error in a judicial antitrust framework, or create contexts in which it is no longer applicable. The judiciary can and does recognize the outdated economic assumptions embedded in precedent and adapt the law to meet the modern economy. As the Supreme Court made clear in the unanimous Alston decision last year, “judges must be open to clarifying and reconsidering their decrees in light of changing market realities” and “[i]f…market realities change, so may be the legal analysis.”
+ 
+Finally, the error cost framework never recognized the systemic benefits to our democracy and economic liberty that flow from keeping power in the economy in check. When the theory was drawn up, an important part of the equation was missing from the whiteboard. The systemic benefits of antitrust enforcement to our political economy consistently augur toward greater enforcement. In the famous Board of Regents case in 1984, Justice Stevens quoted in full the line from Northern Pacific that I mentioned earlier, underscoring that the antitrust laws provide an environment conducive to the preservation of our democratic institutions.[12] Getting it wrong on purpose through intentional underenforcement fails to vindicate those values.
+ 
+For my part, I think we should target neutral and just enforcement of the laws. That maximizes competition in the long run and ensures the systemic benefits of our antitrust regime are realized. More and more, I find that this critical point is common ground among diverse stakeholders in the antitrust community.
+ 
+The Law Prevents Mergers that May Lessen Competition or Tend to Create a Monopoly
+ 
+The third point of emerging consensus is that the Clayton Act and the Celler-Kefauver Anti-Merger Act demand the prohibition of mergers that may lessen competition when those harms are in their incipiency. Again, this is not a novel point—the statute says that it prohibits mergers whose effect “may be” to substantially lessen competition or tend to create a monopoly. Of the many common threads in the more than 5,000 comments we received in the merger guidelines review, an exhortation that we take incipiency seriously was among the most consistently repeated.
+ 
+Brown Shoe sets forth the incipiency standard for merger review.[13] There, the Supreme Court offered a controlling interpretation of Section 7 of the Clayton Act, using traditional tools of statutory interpretation. It evaluated the text of the statute and surveyed the legislative history, before pronouncing that “keystone” of Congress’s solution to the “rising tide of economic concentration…was its provision of authority for arresting mergers at a time when the trend to a lessening of competition in a line of commerce was still in its incipiency.”[14]
+ 
+Yet a peculiar application of the error-cost-error has been a creeping trend away from the incipiency standard and toward requiring a rule of reason framework with demonstrated, certain effects a necessary basis to challenge a merger. That of course is not the law and never was.
+ 
+In fact, the last time the Supreme Court discussed the Section 7 standard — in California v. American Stores — it cited Brown Shoe for the proposition that “Section 7 creates a relatively expansive definition of antitrust liability.” [15] Writing for a unanimous court, Justice Stevens wrote that, “[t]o show that a merger is unlawful, a plaintiff need only prove that its effect ‘may be substantially to lessen competition.’”[16] He italicized the “may be,” underscoring that we should take those words seriously.
+ 
+I don’t mean to suggest that the post-Brown Shoe judicial canvas is blank. To be sure, courts, including the Supreme Court, have expanded on Section 7 law, refining Brown Shoe’s application in certain scenarios and emphasizing certain aspects of its holding. General Dynamics, Baker Hughes, and Hospital Corporation all acknowledge that Brown Shoe sets out the substantive standard, but discuss, often in dicta, potential means of rebutting a showing of incipient harms. Indeed, General Dynamics, like American Stores, cites Brown Shoe’s substantive standard approvingly.[17] That a rebuttal step has been acknowledged in the intervening years does not raise the bar at step 1 of proving that, in the words of the statute and Brown Shoe, there “may be” a substantial lessening of competition or tendency toward monopoly.
+ 
+The incipiency standard is particularly important as we consider markets where one of the merging firms already enjoys substantial market power. Such a merger may entrench that market power in diverse ways whose specific effects are difficult to measure and predict, but where the danger to competition from reinforcing a position of power is clear. In the guidelines comments, a wide range of stakeholders called on the agencies to reinvigorate merger enforcement in markets already dominated by powerful players. To do so more effectively and consistently with the law, we are looking closely at how we can better respect the incipiency framework to assess the risk of market power being preserved or entrenched.
+ 
+The Realities of Digital Markets are Different in Important Ways
+ 
+Fourth, and finally, there is now wide-spread agreement that we should be concerned about digital markets. My friend and former colleague Roger P. Alford titled his recent article in the Emory Law Journal “The Bipartisan Consensus on Big Tech.”[18] It’s worth a read as it details the range of experts and officials who share similar concerns. While this is an area of common ground, it is not based on old ideas, but rather a recognition of changing market realities in the new economy.
+ 
+I believe that power in the digital economy has captivated the world’s attention precisely because of the unique threats it poses to our liberty. The digital economy has enabled monopoly power of a nature and degree not seen in a century. Without competition to deliver ready access to the connections we seek, we are forced to pay with our time in endless scrolls. Algorithms manipulate our psychology to shape our minds and our behavior, without competition for them to do so responsibly.
+ 
+We opened this morning talking about how modern tech, like phones and watches, bears resemblance to ankle bracelets used to monitor prisoners. This perfectly teed up the issue.
+ 
+The digital age is not only characterized by the presence of monopoly power, but by new means of its exploitation more threatening to individual freedom than ever before.
+ 
+These same attributes of market power in digital markets contribute to its preservation in new and important ways. Collaborative platforms connect not only with millions of users, but with hundreds of thousands of businesses. They are built on interconnection. When they enjoy market power, that provides many opportunities to influence businesses in adjacent markets to reinforce that power. Hosting thousands of businesses in adjacent industries on a gatekeeper platform provides a new kind of power, largely unseen before, to shape the development of an ecosystem toward the preservation of that power.
+ 
+There are important implications for competition policy. Frameworks for assessing interconnection and refusal to deal policy must be viewed through the lens of fundamentally collaborative platforms. The underlying market dynamics have fundamentally changed. Cases like Trinko and linkLine, focused on unusual competitor access to solely-owned physical infrastructure, are poor corollaries for thinking through the means and manner of access to digital public squares that are inherently massively connected. The presence and power of existing barriers to entry render much more threatening any merger that threatens to raise them further, or to increase dependence on a powerful platform.
+ 
+Let me conclude with this. Every one of us in the antitrust community has the good fortune to be part of one of the most important conversations going on in America today. I recently visited a bookstore to find some reading for a long plane trip. I found at least a half dozen books about the work we do in the antitrust community. And they are written from all kinds of perspectives and viewpoints. They share, however, many of the same concerns.
+ 
+Because of our background and expertise, we in the antitrust community play a unique role in that conversation. I believe it is incumbent on us to hear the concerns expressed across our country, and to advance our analytical tools to reflect the same market realities that gave rise to them. Debates like we are having today will help us build the new bipartisan antitrust consensus. It’s an incredibly exciting time to be doing this work, and I look forward to the debates and developments to come.
+ 
+ 
+ 
+ 
+ 
+ 
+Sent: 	Tuesday, September 27, 2022 1:18 PM
+ 
+Subject:          	Consumer chief says US FTC engaged in generational enforcement re-think for digital economy | Insight
+ 
+  <https://content.mlex.com/images/MLex_Whiteout_r.png>  	
+ 
+Consumer chief says US FTC engaged in generational enforcement re-think for digital economy <https://content.mlex.com/#/content/1412065?referrer=email_instantcontentset>      	
+27 Sep 2022	|	17:14 GMT    |	Insight         	
+By Mike Swift   
+The US Federal Trade Commission is engaged in a generational policy reconsideration based on its view that digital markets often can’t self-correct their failures and that consumers increasingly lack the informational tools to make beneficial choices, the FTC’s consumer protection chief said today.     	
+The US Federal Trade Commission is engaged in a generational policy reconsideration based on its view that digital markets often can’t self-correct their failures and that consumers increasingly lack the informational tools to make beneficial choices, the FTC’s consumer protection chief said today.
+ 
+Speaking at a conference in Brussels*, Samuel Levine, director of the FTC’s Bureau of Consumer Protection, said that four decades after a conservative revolution in the 1980s that set its faith in the ability of markets to self-correct and that consumers were in the best position to make choices to avoid harm do not apply well to the digital economy.
+ 
+“Four decades on, I think it is time to reexamine whether these are assumptions we can continue to rely on,” Levine said.
+ 
+“In today’s digital economy, it is simply illogical to put the onus on individuals to appreciate the implications of this enormously complex ecosystem, an ecosystem powered by massive data collection and often arcane technology,” he added.
+ 
+Levine cited four areas of the digital economy where the FTC under Chair Lina Khan believes the reliance on the ability of markets to self-correct and consumers to make beneficial choices are in doubt: “pervasive commercial surveillance,” abusive algorithms, stacked or inaccurate product and service reviews, and the deployment of “dark patterns” intended to influence consumers to disclose personal information to a website or app they might not otherwise share.
+ 
+Levine cited the $3 million settlement the FTC reached earlier this month with Credit Karma for allegedly deploying dark patterns to entice consumers to apply for credit offers that in many instances they did not qualify for. The FTC said in the Sept. 1 settlement that Credit Karma’s credit-score and credit report services allowed the company to amass over 2,500 data points on each consumer, including credit and income information.
+ 
+The Credit Karma settlement, he said, is meant to “send a clear message to other firms that are thinking about engaging in similar tactics” using dark patterns. “We will not stand idly by as the harms from dark patterns proliferate in our economy.”
+ 
+Another example of the FTC’s generational re-thinking that concluded that traditional “notice and choice” privacy regimes are no longer effective to protect consumers was the FTC’s decision this summer (see here <https://content.mlex.com/#/content/1400699?referrer=email_instantcontentset> ) to launch a rulemaking process for data protection and data security. The FTC’s action, Levine said, “we hope lends momentum” to efforts in Congress to pass a US national privacy law.
+ 
+“It should be clear by now that this approach is not working,” Levine said of the traditional “notice and choice” privacy regime.
+ 
+The FTC in August also sued Kochava (see here <https://content.mlex.com/#/content/1404943?referrer=email_instantcontentset> ), a data broker based in the western state of Idaho, tapping its rarely used authority to police “unfair” business conduct in alleging Kochava was illegally peddling intimate health and religious data “to the highest bidder.”
+ 
+Based on the FTC Act’s prohibition against unfair business practices that harm consumers and harms them in a way they cannot easily avoid, the Kochava case is a “major suit” for the FTC, Levine said.
+ 
+“It makes no sense for government to sit on the sidelines, allowing consumer harms to accrue in the belief and in the hope the market will correct itself,” Levine said.
+ 
+*"To empower, not to weaken: Rethinking consumer protection in the digital world," BEUC, Brussels, Belgium; Sept. 27, 2022.
+ 
+ 
+Sent: 	Friday, September 16, 2022 11:22 AM
+ 
+Subject:          	US DOJ's Kanter calls on antitrust enforcers to be less cautious about avoiding 'overenforcement' | Official Statement
+ 
+  <https://content.mlex.com/images/MLex_Whiteout_r.png>  	
+ 
+US DOJ's Kanter calls on antitrust enforcers to be less cautious about avoiding 'overenforcement' <https://content.mlex.com/#/content/1409431?referrer=email_instantcontentset>      	
+16 Sep 2022	|	14:58 GMT    |	Official Statement   	
+          	
+MLex Summary: Assistant Attorney General Jonathan Kanter spoke before the Conference on International Antitrust Law and Policy on the need for enforcers to address the threat of the exclusionary power of major digital platforms arising from their connectivity, which threatens the competitive process and would-be rivals. Kanter highlighted the need to understand how exclusionary acts work together, to look out for, and immediately address, upcoming competition threats, to stop mergers that “tend to create a monopoly,” and to craft remedies that prevent the recurrence of problematic tactics.    	
+Statement follows in full.
+ 
+Assistant Attorney General Jonathan Kanter of the Antitrust Division Delivers Keynote at Fordham Competition Law Institute’s 49th Annual Conference on International Antitrust Law and Policy
+Remarks as Prepared for Delivery
+ 
+Thank you so much for that introduction. And thank you to the conference organizers for continuing this wonderful tradition of gathering antitrust enforcers from around the world for a discussion about the enforcement and policy issues we face together.
+ 
+Every era of competition law is different. Each has its own unique set of challenges. Historically, in the 1990s and early 2000s the greatest challenge for the antitrust community was to establish competition law as a global enforcement norm. Today we have largely been successful in meeting that challenge. Most of the global economy is subject to competition laws and the jurisdiction of at least one enforcement agency.
+ 
+We now face a pressing challenge that demands an aggressive coordinated response from the competition law enforcement community. Unilateral exclusionary conduct — what we in the United States call monopolization — is ascendant.
+ 
+The digital economy has captivated the world’s attention for two related reasons. First, we have watched how it can serve as a driver of growth and innovation. The power of instantaneous connection to worldwide networks of people, companies, and infrastructure changes what is possible in profound ways. Our lives have been transformed in so many respects.
+ 
+Second, we have watched these changes lead to the collection of corporate power that threatens our liberty. The digital economy has enabled monopoly power of a nature and degree not seen in a century. Without competition to deliver ready access to the connections we seek, we are forced to pay with our time in endless ad-filled scrolls. Algorithms manipulate our psychology to shape our minds and our behavior, without competition for them to do so responsibly. With too little competition over privacy, we find our most intimate data mined and sold with abandon. The digital age is not only characterized by the presence of monopoly power, but by new means of its exploitation more threatening to individual freedom than ever before.
+ 
+The promises and perils of the digital economy are fundamentally related. At the same time that platforms connect us to one another, they control how we connect. The power to interconnect millions carries the power to influence the lives of millions and to shape the development of adjacent industries. Today’s monopolists can influence the interactions and behavior of customers and would-be competitors alike. They can pick winners and losers in adjacent markets, discourage switching to rival services, and punish entrepreneurs that stray too closely into competition. We have seen how exclusionary tactics exploiting this power can strengthen already-dominant positions and deepen the moat around a digital castle.
+ 
+This is a global challenge because monopolization often involves more than just one bad act. The exclusionary power of digital platforms arises from their massive connectivity, and plays out in parts large and small across a wide range of interdependent and reinforcing relationships. The constant threat of its abuse threatens the competitive process and would-be rivals. If we answer one practice, another arises. If we address one behavior in one adjacent market, monopoly power may be used to extend the moat further around it. If we isolate individual practices without considering the flywheel of anticompetitive effects then we overlook the dimension of meaningful competition.
+ 
+This can look like the old arcade game Whac-a-Mole. One mole’s head pops up, we focus on batting it back down, and by the time we look again two more have jumped out at us. No one ever really wins that game. The moles just keep coming. To stop them from popping up, you really need to unplug the machine.
+ 
+In the same way, enforcers need to unplug the monopolization machine in digital platform industries. I would like to use my time today to talk about four ways we can do that together.
+ 
+First, we need to examine a monopolist’s course of conduct. To understand exclusionary behavior by a monopolist, we have to understand their monopoly, what it is, and what protects it. All of the mutually-reinforcing strategies that protect the monopoly are relevant to understanding any one. If we spend a year examining a single tree, no matter how effectively, we will never have a sense of the forest.
+ 
+Dating back to at least Standard Oil in 1911, the Supreme Court has seen fit to review monopolization claims in the light of the combined effects of the full range of a monopolist’s exclusionary tactics. As the Third Circuit explained in LePage’s, we should examine practices “taken as a whole rather than consider each aspect in isolation” because “the relevant inquiry is the anticompetitive effect of [the] exclusionary practices taken together.” These concerns are most profound in markets that exhibit network or feedback effects.
+ 
+The realities of digital markets have amplified the need to understand how exclusionary acts work together. The network effects that characterize digital markets create a flywheel effect through which anticompetitive conduct can be self-reinforcing. Enforcers must examine all of the conduct that keeps the wheel spinning, not just individual flicks of the wrist.
+ 
+My sense is that antitrust agencies, at least in the United States, have avoided this approach as one of the consequences of what I call the error cost error. Forty years ago, lawyers opposed to antitrust enforcement advocated that enforcers should get it wrong on purpose, and intentionally underenforce the law. In their view, monopolies inherently self-correct, but judicial errors do not, so we should avoid enforcement mistakes at all costs. From this perspective, we cannot risk enforcement against even a single bad act, much less a strategy of monopolization.
+ 
+This was wrong on both fronts. Monopolies do not self-correct. We have all seen that in digital markets, monopolies self-sustain. Platforms that are fundamentally collaborative become critical trading partners for entire industries, and without competition have greater power to discourage rivalry. Network effects exacerbate this problem.
+ 
+Moreover, judicial errors need not be set in stone. As Justice Gorsuch explained in the Alston case last year, “whether an antitrust violation exists necessarily depends on a careful analysis of market realities…. If those market realities change, so may the legal analysis.”
+ 
+Take Trinko for example. That was a case about expensive infrastructure like telephone poles and wires, and the Supreme Court was hesitant to impose unprecedented access because it did not want to discourage infrastructure investment. Digital platforms are profoundly different—they are built with 1s and 0s, not poles and wires, and they are collaborative by nature. In fact, most digital platforms draw their value from interconnection. So the underlying economic logic of Trinko will not apply in the same way to collaborative digital platforms that are built on interconnection.
+ 
+Indeed, Trinko explained, like Alston, that “[A]ntitrust analysis must always be attuned to the particular structure and circumstances of the industry at issue.” The law’s ability to adapt means that we need not have so much fear of judicial error that we insist on inaction.
+ 
+I therefore believe we can no longer be so cautious to avoid overenforcement that we intentionally underenforce the law. At the Antitrust Division, we have moved past the error cost error. We have been too limited by a self-imposed requirement that we use our most powerful microscopes to examine an exclusionary act before intervening to stop it. We need a wider lens, and a greater willingness to pursue and remedy all of the harmful behaviors that make up an exclusionary course of conduct.
+ 
+That brings me to my second strategy to address the Whac-a-Mole monopolization machine. We need to expand our focus from the bad acts of years past to those happening now. Some people call this “horizon scanning” because they recognize the need to see the threats that are coming. I would take that a step further—not only should we look for the threats that are coming, we should go deal with them. We need to skate to where the puck is going.
+ 
+Skating to the puck means that when we see a problem, we move to the problem in a forward-looking manner. This requires us to be more nimble and act quickly and decisively as the facts present themselves when justice demands. I also believe it requires us to seek preliminary injunctive relief before practices or policies with exclusionary impact are able to irreparably harm the markets. Even just a few months of discouraged innovation or entry in a multi-billion-dollar industry that exhibits powerful network and feedback effects can create irreparable competitive harm that demands preventive action.
+ 
+Of course, I agree that in order to skate to the puck, we have to see it as well. I have been incredibly impressed with the leadership of the UK CMA in building out its data unit and in sharing its learning with partner agencies. And I have seen other agencies taking similar approaches. Just two days ago I had the opportunity to sit down with our colleagues in Canada and hear about their impressive work in this regard. At the Antitrust Division, we recognize that we need technological expertise and data-handling knowledge in-house in order to understand where markets are going and where the next threats may arise.
+We are working to develop those capabilities and I am delighted that the Division has hired PHD data scientist Laura Edelson as its Chief Technologist to serve in our Expert Analysis Group, which is lead by our Chief Economist, Susan Athey. We are working to build a diverse community of experts with a wide range of complementary skills alongside our world-class economists, including our Principal Economist, Ioana Marinescu.
+ 
+Our capabilities to do this are always, of course, limited by our resources. That is why the Department of Justice strongly supports passage of the Merger Filing Fee Modernization Act of 2021.
+I should mention that Susan has also been a great asset to our merger guidelines project. Together with the Division’s Policy Director David Lawrence, she is leading a dream team of talented attorneys and economists at the DOJ, who are working closely with colleagues at the FTC. I have asked them to revise the merger guidelines to be more accessible, more comprehensive, and most importantly to better reflect the law.
+ 
+That brings me to my third suggestion for dealing with the monopolization machine. We need to stop mergers that “tend to create a monopoly.” The text of the Clayton Act has used these precise words for more than a century, but we have not always paid them due attention. Ignoring this language has led to underenforcement against mergers that, in the words of the 2010 Merger Guidelines “enhance or entrench market power.”
+ 
+I believe our horizontal and vertical framework has been limiting in this respect. Focusing on that distinction has sometimes screened out important information about mergers that entrench market power or tend to create a monopoly. Mergers that relate to adjacent markets can have those effects, without being strictly horizontal or vertical. Our tools, however, have not equipped us to analyze them flexibly and comprehensively.
+ 
+A recent paper Susan wrote with co-author Fiona Scott Morton provides a good example. They explain how important multi-homing services are to platform competition. Anything that makes it easy to switch back and forth, or to use multiple platforms simultaneously, is a multi-homing service. If a powerful platform acquires such a service, it can limit the multi-homing functionality to tip the market toward monopoly. Those types of mergers are not strictly horizontal or vertical, but they are important because they entrench market power and tend to create a monopoly.
+ 
+When we analyze mergers that entrench market power, we also need to recognize that they may just be one more mole popping up its head as part of an exclusionary strategy. Effective merger review will therefore often demand assessing not only the direct competition between the merging companies, but the core monopoly of the acquirer and how the merger fits into an exclusionary course of conduct.
+ 
+My final strategy for unplugging the Whac-a-Mole monopolization machine might be the most important. We need effective remedies that actually breach the moats and allow competitors to reach the castle. We need to obtain comprehensive relief that not only prevents the recurrence of a particular anticompetitive tactic, but that stops an exclusionary strategy altogether.
+ 
+In some cases this will take the form of legislation. I believe that non-discrimination legislation will be a critical tool to discourage a wide range of exclusionary practices and give would-be competitors confidence that they are protected from retaliation. The Department of Justice has strongly encouraged Congress to pass the American Innovation and Choice Online Act.
+ 
+This also means carefully designing remedies in cases under our existing laws. As we address platforms that thrive on interconnection, global remedies regimes will intersect more than ever. I am committed to deepening our international partnerships and to the hard work of case cooperation to ensure those overlaps are complementary. For the same reason, we look forward to working closely with EVP Vestager and our friends in the European Commission as they implement the Digital Markets Act.
+ 
+Let me conclude on a hopeful note. I realize that we have tremendous challenges ahead, and that the path to meeting them will not be easy. This will not be as simple as reaching back and unplugging an arcade machine. It will be the work of many years. It will take energy and commitment and dedication.
+ 
+The good news is that I see those things every day at the Antitrust Division. I am absolutely inspired by the work of the staff there. The attorneys, economists, and support staff come in every day driven by this mission we share. They are tireless. It has been overwhelming to experience their energy, and as I look back on my first year, it has been the highlight.
+ 
+In addition, I would like to call attention to the unsung heroes, which are our paralegals and professional staff. The Antitrust Division has an incredible program that is buzzing with both new and seasoned paralegals and professional staff. They generate infectious enthusiasm for competition. And they offer fresh thinking about the challenges we face and creative solutions for the future. They are lifeblood of the Antitrust Division.
+ 
+I hear that same enthusiasm here, among the global law enforcement community. There are new leaders emerging, and experienced leaders helping drive us forward together. As a community, we will address these shared challenges and, as before, emerge stronger for it.
+ 
+Thank you.
+###
+ 
+ 
+Sent: 	Thursday, August 11, 2022 3:30 PM
+ 
+Subject:          	US Federal Trade Commission launches long-awaited privacy, data security rulemaking process | Insight
+ 
+  <https://content.mlex.com/images/MLex_Whiteout.png>     	
+ 
+US Federal Trade Commission launches long-awaited privacy, data security rulemaking process <https://content.mlex.com/#/content/1400699?referrer=email_instantcontentset>      	
+11 Aug 2022	|	19:26 GMT    |	Insight        	
+By Mike Swift   
+Warning that the business model of “commercial surveillance” may be rife with illegal conduct, the US Federal Trade Commission launched a privacy and data security rulemaking process that will initially focus on information-gathering, a process FTC leadership said complements federal privacy legislation.      	
+Warning that the business model of “commercial surveillance” may be rife with illegal conduct, the US Federal Trade Commission launched a privacy and data security rulemaking process that will initially focus on information-gathering, a process FTC leadership said complements federal privacy legislation.
+ 
+The “Advance Notice of Proposed Rulemaking,” or ANPR, filed by the FTC today (see here <https://content.mlex.com/#/content/1400655?referrer=email_instantcontentset> ) sets out the agency’s plans to develop a “rich public record,” Chair Lina Khan told reporters at a press conference, on the collection, analysis and monetization of the personal data of Americans. Only later, after a public forum in September and a two-month comment period, would the FTC consider whether to propose specific rules on data privacy and security.
+ 
+That process will not conflict, Khan and Democratic commissioners Rebecca Kelly Slaughter and Alvaro Bedoya said, with efforts in Congress to pass a comprehensive privacy law, the American Data Privacy and Protection Act, or ADPPA (see here <https://content.mlex.com/#/content/1395462?referrer=email_instantcontentset> ).
+ 
+“We all know that businesses now collect personal data on individuals at a massive scale and in a stunning array of contexts, on our location, on our health, what we read online, who we meet, what we buy,” Khan said. “We've also seen extensive reporting and research on how the way that firms today collect and retain data can lead to a host of harms.”
+ 
+Samuel Levine, director of the FTC’s Bureau of Consumer Protection, said the FTC is “not making any assumptions” about what it will find in the information-gathering phase about industry’s collection and use of personal data and the accuracy of artificial intelligence algorithms, or even whether the FTC will ultimately propose specific rules. 
+ 
+“What I do think the ANPR describes and the reason we use the term ‘surveillance’ is the breadth and the pervasiveness of the information-collection practices that we're seeing,” Levine told reporters. “Whether it's the fitness trackers on our wrists, the phones in our pockets, the cars we drive, the appliances we use at home, a growing number of businesses rely on surveillance as part of their business model. And that means consumers in a growing number of spheres of their lives are subject to information collection, often without their knowledge or control.”
+ 
+Bedoya, who recently joined the FTC as perhaps the agency’s first privacy specialist commissioner, noted the United States is an outlier among developed democracies in lacking legal guardrails on the collection and use and security of personal data.
+ 
+“Our nation is the unquestioned leader in the world on technology. We’re the unquestioned leader in the information economy, yet we are almost alone in our lack of meaningful protections to this infrastructure,” Bedoya said. “We don't have a modern data security law. We don't have a baseline privacy rule. We don't have civil rights protections suitable for this era. And all of this landscape is ripe for abuse.”
+ 
+The vote to file the rulemaking ANPR was 3-2, with Republican Commissioners Noah Phillips and Christine Wilson voting no and issuing dissents (see here <https://content.mlex.com/#/content/1400681?referrer=email_instantcontentset>  and here <https://content.mlex.com/#/content/1400683?referrer=email_instantcontentset> ). That would have been a disappointment to FTC Democratic commissioners and staff who until recently harbored hopes that Wilson, who has been a strong voice on privacy, would support the rulemaking.
+ 
+Phillips said in his dissent that he would have supported an ANPR limited to data security rules, but that looking broadly at the commercial surveillance industry would be going beyond the FTC’s legal remit, without a mandate from Congress. “It’s a naked power grab. I dissent,” Phillips wrote.
+ 
+Other members of Congress close to the effort to pass a privacy law, both Democrats and Republicans, also issued statements saying they were concerned the FTC rulemaking could undermine the effort to pass national legislation (see here <https://content.mlex.com/#/content/1400687?referrer=email_instantcontentset> ).
+ 
+Bedoya said if the ADPPA passes, he would not vote for any FTC rulemaking that “overlaps” with limits and requirements in the federal legislation. "I wanted to put at ease folks who are concerned that we would somehow try to issue rules . . . that would conflict with that legislation in any way," he said.
+ 
+The Democratic commissioners told reporters that what the FTC learns in the information-gathering process for rulemaking could feed into any rulemaking mandated by Congress in the federal privacy bill.
+ 
+Slaughter said she is “incredibly impressed” with the proposed ADPPA and “thrilled” about the progress of the bill, which has passed out of a House of Representatives committee, but still must be approved by the full House and the US Senate.
+ 
+But “I know that the legislative process is full of uncertainty,” said Slaughter, a former Senate staffer. “Until there's a law on the books, the Commission has a duty to use all the tools we have under current law to address unlawful behavior. I see our efforts as complementary, not an alternative to congressional legislation.”
+ 
+One area of concern for the FTC is a recent decision by the US Supreme Court that would allow courts to slap down federal agencies if they exceed a narrow reading of the rulemaking authority granted to them by Congress (see here <https://content.mlex.com/#/content/1389699?referrer=email_instantcontentset> ).
+ 
+The FTC’s general counsel, Anisha Dasgupta, told reporters the agency believes it is on firm legal ground with that Supreme Court case because it is acting under its authority in Section 18 of the FTC Act. Section 18, she said, “provides clear congressional authority for the commission to solicit public comments and ultimately develop the record that shows that there are practices that are unfair, or deceptive and prevalent to begin a rulemaking process.”
+ 
+The FTC will be focused on seven specific areas of concern in the commercial surveillance industry, the agency said in the ANPR and written materials. 
+ 
+Those are lax data security, potential harms to children and the potential addictiveness of online services to them, and that consumers may face “retaliation” from companies that may require them to sign up for surveillance as a condition for service.
+ 
+Additional areas of concern for the FTC include “surveillance creep” — that companies are expanding their data collection after consumers sign up for a service; problems with the inaccuracy in automated decision-making systems and algorithms, and any bias built into those systems against groups of people. Finally, the FTC plans to focus on the growing use of “dark patterns” in app and website design that are designed to coerce consumers into making privacy choices they otherwise would not.
+ 
+The first step in the rulemaking process will be a five-and-a-half-hour public forum on Sept. 8 that will be hosted by the FTC. And in a 60-day comment period, the FTC is seeking public input on “the nature and prevalence of harmful commercial surveillance practices,” whether there are “countervailing benefits” of those practices for consumers and competition, and specific proposals to protect consumers.
+ 
+When the information-gathering phase might trigger a formal proposal of a privacy or data security rule is “hard to predict,” an FTC spokeswoman told MLex.
+ 
+“The best we can say is that the FTC Act authorizes the Commission to propose trade regulation rules when it has reason to believe that certain commercial surveillance practices are prevalent – that is, there is information that indicates a widespread pattern of unfair or deceptive acts or practices,” said the spokeswoman, Juliana Gruenwald. “The comments that we receive from the public will influence that determination. If, after reviewing public comments in response to the ANPR, the Commission decides to continue, the next step would be a notice of proposed rulemaking.”
+ 
+ 
+Sent: 	Tuesday, August 9, 2022 1:46 PM
+ 
+Subject:          	US FTC's Bedoya says he will focus on technology harms, discrimination | Insight
+ 
+  <https://content.mlex.com/images/MLex_Whiteout.png>     	
+ 
+US FTC's Bedoya says he will focus on technology harms, discrimination <https://content.mlex.com/#/content/1399622?referrer=email_instantcontentset>      	
+9 Aug 2022	|	17:39 GMT    |	Insight          	
+By Amy Miller   
+The US Federal Trade Commission’s Alvaro Bedoya will focus on those disproportionately harmed by technology, whether it’s teenagers on social media, people stalked by geolocation trackers or scams targeting non-native English speakers, he said in his first public speech. Antitrust bills proposed in Congress would be a “huge benefit” for enforcement, Bedoya said, but his initial efforts at the agency will be targeted on issues around equity, fairness and discrimination.     	
+The US Federal Trade Commission’s Alvaro Bedoya will focus on those disproportionately harmed by technology, whether it’s teenagers on social media, people stalked by geolocation trackers or scams targeting non-native English speakers, he said in his first public speech today.
+ 
+“I want to resist that urge to focus on the latest implications of the latest technology and ask: Who are we leaving behind and how can we help them?” Bedoya told a gathering of state attorneys general in Des Moines, Iowa, today.*
+ 
+Antitrust bills proposed in Congress would be a “huge benefit” for enforcement, Bedoya said, and he’d like to see the agency bring aggressive, hard cases “to try to push the ball forward.”
+ 
+But Bedoya said his initial efforts at the agency will be targeted on issues around equity, fairness and discrimination. One example is language, he said. What language someone speaks shouldn’t make them more vulnerable online, but it does, he said.
+ 
+Algorithms are largely designed using English, and that can lead to discrimination against non-native English speakers. Tools to stop fraud are less effective for languages other than English, which means non-native English speakers can become easy targets for scammers, Bedoya said.
+ 
+“Algorithmic bias has to be just the start of the conversation,” he said.
+ 
+Bedoya also cited several studies that found teenage girls in particular are being harmed by social media, leading to higher rates of suicide, depression and anxiety. At the same time, screen time is increasing fastest among poor children, he noted.
+ 
+Bedoya praised federal privacy proposals that would add child psychologists to the FTC’s staff, and said he’s already looking into hiring a child psychologist on his own staff.
+ 
+“We have even more reason to dig deeper,” Bedoya said. “We need to ask platforms: How do you keep them online?”
+ 
+Another looming threat is the large, unregulated market for geolocation data. There are no guardrails around the use of geolocation data, but it can be used to track people fleeing abusive relationships, he said. Now there’s growing concern that location data will be used to track and prosecute women seeking reproductive care, he said.
+ 
+“No one wins from this lack of privacy,” Bedoya added.
+ 
+Bedoya, who was confirmed by the Senate in May, is known for his work in privacy, including criticism of law enforcement's deployment of facial recognition, and immigration enforcement’s usage of commercial data collection services.
+ 
+He is founding director of the Center on Privacy and Technology at Georgetown Law. He’s also a former chief counsel to the Senate Judiciary Subcommittee on Privacy, Technology and the Law, and was chief counsel for former Minnesota Senator Al Franken.
+ 
+ 
+Sent: 	Tuesday, July 12, 2022 4:05 PM
+ 
+Subject:          	US DOJ eager for industry input on competitive choke points, competition-restoring remedies in tech sector, Kanter says | Insight
+ 
+  <https://content.mlex.com/images/MLex_Whiteout.png>     	
+ 
+US DOJ eager for industry input on competitive choke points, competition-restoring remedies in tech sector, Kanter says <https://content.mlex.com/#/content/1392344?referrer=email_instantcontentset>      	
+12 Jul 2022	|	19:22 GMT    |	Insight          	
+By Khushita Vasant     	
+Jonathan Kanter, the chief of the US Department of Justice antitrust division, today said the agency wants to hear from the tech industry on how to design remedies that can help restore competition in digital markets.         	
+Jonathan Kanter, the chief of the US Department of Justice's antitrust division, today said the agency wants to hear from the tech industry on how to design remedies that can help restore competition in digital markets.
+ 
+"We're eager to hear from industry to understand where they see, where you all see competitive choke points, and what kinds of remedies can help restore competition, what works, what doesn't," Kanter told a conference in Aspen, Colorado.* Kanter participated virtually in a question-and-answer session to discuss "A New Era in Antitrust."
+ 
+Kanter was responding to a question about the agency's progress in dealing with competition problems in the search engine space. The DOJ is suing Google for alleged search monopoly (see here <https://content.mlex.com/#/content/1219087?referrer=email_instantcontentset> ).
+ 
+Kanter was asked whether the department would consider a similar online search remedy to what the European Commission's competition service has implemented following an abuse of dominance investigation against Google over the Android operating system on smartphones.
+ 
+Google will show a longer list of rival search providers on new Android handsets and not charge for a qualifying auction (see here <https://content.mlex.com/#/content/1299307?referrer=email_instantcontentset> ). The changes are part of the search giant's efforts to comply with a commission decision from July 2018 that fined it 4.34 billion euros ($4.4 billion) for abusing its market power (see here <https://content.mlex.com/#/content/1006894?referrer=email_instantcontentset> ).
+ 
+Kanter said there's "no one-size-fits-all" remedy, and that the specifics of the industry will dictate what remedies will work.
+ 
+— Colluding algorithms —
+ 
+The DOJ antitrust chief was asked if he envisions a world where the agency will have to police algorithms used to collude to break antitrust laws.
+ 
+"Yeah, the short answer is yes," Kanter said.
+ 
+When US antitrust laws were first enacted, there were "proverbial smoke-filled room[s]" with individuals sitting in a basement, smoking cigars and coming up with agreements to fix prices. But in the last 20 or 30 years, the means of collusion have evolved to e-mails and text messages, he said.
+ 
+"We're at the dawn of a new era when companies are pricing and trading programmatically not just in a traditional manner... to the extent that you're developing algorithms and AI that has machine learning," he said.
+ 
+There needs to be compliance on the front end to make sure that "just as you train your employees before they got into the workforce, to make sure that they understand the ground rules, [it] is going to be important to make sure that before you start training your AI ... that that AI has appropriate mechanisms in place to ensure that it doesn't go into areas that could violate the antitrust laws," Kanter said.
+ 
+— Playing the long game —
+ 
+Kanter was asked to talk about reasons the DOJ spends years bringing complicated antitrust cases that courts knock down because the judicial system doesn’t view antitrust laws the same way federal antitrust enforcers do.
+ 
+The DOJ antitrust chief said that "to some degree there's a long game," and enforcers have to ensure a century-old set of laws is fit for a modern economy. The only way to determine whether those laws are fit is to make use of them to bring cases to courts, to present fact patterns that reflect the realities of a modern economy and then give courts the opportunities to rule, he said.
+ 
+"If we don't use those muscles, they'll atrophy," Kanter said.
+From:	The Capitol Forum <editorial@thecapitolforum.com>
+Sent: 	Friday, May 6, 2022 3:30 PM
+ 
+Subject:          	TCF Digest: 5/2 to 5/6 Edition
+ 
+          	TCF Digest: 5/2 to 5/6 Edition
+Welcome to Capitol Forum’s Digest, a recap of articles and transcripts we published the past week.
+Merger and Antitrust Articles
+European Antitrust Agenda: Apple Faces EU Charges on Mobile Payments; France Authorizes First ‘Failing Firm’ Merger; Google, Apple in Court to Fight Antitrust Cases; UK Regulators Explore Risks in Algorithms; Market Concentration Flashes ‘Warning Sign,’ CMA Economist Says (May 2)
+The European Antitrust Agenda is a weekly analysis of timing and priorities at the European Commission, the Competition and Markets Authority, and other agencies. This week, The Capitol Forum looks at formal EU antitrust charges accusing Apple of abusing its dominant position in markets for mobile wallets, the CMA's investigation into Education Software Solutions, and a hearing for Google's appeal of its fine for hindering rivals in online search advertising.
+The Antitrust Agenda: FTC Morale Issues in a Historical Context; In Blows to Big Tech, Sally Hubbard Takes Position at DOJ, Raimondo Supports Antitrust Legislation (May 2)
+The Antitrust Agenda is a weekly analysis of timing and priorities at the FTC and DOJ. This week, The Capitol Forum takes a look at the results of the 2021 Federal Employee Viewpoint Survey, Sally Hubbard's appointment as senior counsel to Assistant Attorney General Jonathan Kanter, and other personnel updates at the agencies.
+Transcript of JetBlue/Frontier/Spirit Conference Call with Diana Moss of the American Antitrust Institute (May 2)
+On April 28, The Capitol Forum hosted a conference call with American Antitrust Institute President Diana Moss to discuss existing airline market dynamics, as well as the latest round of proposed industry consolidation and its antitrust implications.
+BIT Mining/Viking Data Centers: CFIUS Review Likely for Ohio JV, Experts Say (May 3)
+Hong Kong-based BIT Mining, a company engaged in the increasingly competitive business of mining cryptocurrency, will likely need to file its Ohio joint venture with Viking Data Centers to the Committee on Foreign Investment in the United States (CFIUS), spurring an investigation into the transaction, national security experts said.
+TD Bank/First Horizon: Faulty Accounts Didn’t Draw Fines From Trump Officials; Workers Say Suspect Practices Persist As Deal Approvals Sought (May 4)
+Despite finding TD Bank wrongly pressured customers into opening accounts and using banking services they didn’t want, a leading bank regulator during the Trump administration opted to give the company a private reprimand rather than a fine for the abuses, according to sources familiar with the matter
+Merger Monthly: Might DOJ Not ‘Back Down’ in UnitedHealth/Change Healthcare Litigation?; Outlook for Key Transactions Including II-VI/Coherent, Microsoft/Activision, and NortonLifeLock/Avast (May 4)
+Since taking the helm of DOJ’s antitrust division late last year, Assistant Attorney General Jonathan Kanter has emphasized his willingness to pursue an aggressive litigation agenda
+CMA Policy: Financial Services, Veterinary Industries Put Focus on Watchdog’s Approach to Remedies (May 5)
+UK merger probes into the London Stock Exchange Group’s proposed 274-million- pound acquisition of Quantile Group and VetPartners’ completed purchase of Goddard Veterinary Group will shed additional light on the type of remedies the Competition and Markets Authority is willing to accept.
+Medtronic/Intersect ENT: FTC Commissioners Consider Proposed Consent Decree, Setting Stage for Vote (May 6)
+The FTC’s review of Medtronic’s planned Intersect ENT acquisition has reached its final stages as the agency’s commissioners consider a proposed divestiture to address product overlaps resulting from the $1.1 billion transaction, sources familiar with the matter said.
+Missouri Farmer Alleges Deere Dealer Threatened Him, Showing Customer Frustration With Lack of Repair Options (May 6)
+Missouri farmer Jared Wilson had planted about 40% of his crop of corn and soybeans when his Deere &amp; Co. tractor’s air conditioning broke down. The tractor’s glass cabin focused the April day’s heat, and the temperature began to climb, reaching the point where Wilson’s iPad shut down, which usually occurs at 95 degrees or above.
+Corporate Investigation Articles
+Chegg: Q&amp;A Service Users Asked 45% Fewer Questions in April Compared with the Year Prior (May 2)
+Students continue to appear to be using Chegg’s Q&amp;A service less frequently than during similar periods last year, according to a Capitol Forum analysis of the company’s Q&amp;A archive.
+Used Car Weekly: Vroom Inventory, Sales Figures Continue Sharp Decline (May 2)
+Used car retailer Vroom is continuing a downward slide in regards to consumer demand and available inventory for sale, according to a Capitol Forum analysis of the company’s website.
+TCF Upstream Monthly: Transcript of Conference Call with Ted Boettner and Kathy Hipple to Discuss ‘Diversified Energy: A Business Model Built to Fail Appalachia’ Report (May 2)
+On April 27, The Capitol Forum hosted a conference call with Ted Boettner and Kathy Hipple, two co-authors of “Diversified Energy: A Business Model Built to Fail Appalachia,” to discuss the company’s retirement plans, decline rate, and forecast revenue. Aspects of the report relied on The Capitol Forum’s oil and gas data platform Upstream, which has unique capabilities to track accurate ownership information and the most contemporary production data as it becomes available.
+UGI Corp.: Risks Mount at AmeriGas as Operational Changes Falter, Impacting Customer Service and Volumes Sold; Layoffs Expected to Make Matters Worse, Sources Say (May 5)
+UGI Corp. subsidiary AmeriGas laid off over 15 percent of its workforce (over 900 employees) between late-February and early-April, likely leading to further customer service issues and lower sales for the company’s residential propane business, according to a Capitol Forum investigation.
+Carvana: GM May Auction Calendar Shows It is Not Participating in Open Auctions at ADESA Locations (May 6)
+GM Financial recently released its May 2022 auction calendar for remarketed vehicles, which shows that the manufacturer is not participating in any open auctions at ADESA locations.
+Click here for the full article.   	
+                         	
+          	
+Suite 300
+Washington, DC 20006
+202-601-2300
+ 
+To customize your subscription or to unsubscribe please email editorial@thecapitolforum.com          	
+          	
+          	 
+ 
+Sent: 	Monday, April 25, 2022 6:57 PM
+ 
+Subject:          	Comment: Musk's $44 billion deal to buy Twitter will draw regulatory scrutiny | Comment
+ 
+          	Comment: Musk's $44 billion deal to buy Twitter will draw regulatory scrutiny     	
+25 Apr 2022	|	22:53 GMT    |	Comment   	
+By Jakub Krupa, Dave Perera, Jenna Ebersole and Mike Swift    	
+          	Vowing to open-source the algorithm for the Internet’s often unruly public square, Elon Musk reached a deal today to buy Twitter for about $44 billion, injecting a new unknown into the content moderation debate on both sides of the Atlantic.   	Vowing to open-source the algorithm for the Internet’s often unruly public square, Elon Musk reached a deal today to buy Twitter for about $44 billion, injecting a new unknown into the content moderation debate on both sides of the Atlantic.
+ 
+Musk’s deal to acquire Twitter and take it private, in a deal he hopes to close this year, may draw the scrutiny of antitrust enforcers in the US and that could highlight a looming battle with the Federal Trade Commission over a privacy enforcement case that's been outstanding since 2020. In Europe, however, Musk may find an unexpected ally among regulators in arguing for algorithmic transparency.
+ 
+One thing the man who revolutionized commercial spaceflight and electric vehicles is certain to avoid with Twitter is the status quo. 
+ 
+Like many conservatives in the US, Musk has repeatedly criticized Twitter for opaque ways of promoting content, saying that its reliance on a “black box algorithm” making tweets “mysteriously promoted and demoted” could be “quite dangerous.” He returned to those themes in his written statement today.
+ 
+&quot;Free speech is the bedrock of a functioning democracy, and Twitter is the digital town square where matters vital to the future of humanity are debated,&quot; Musk said in a written statement after the Twitter board unanimously approved this takeover bid just before noon today in San Francisco (see here). &quot;I also want to make Twitter better than ever by enhancing the product with new features, making the algorithms open source to increase trust, defeating the spam bots, and authenticating all humans.&quot;
+ 
+The deal is expected to trigger a Hart-Scott-Rodino Act filing with US antitrust authorities. It’s not clear whether the Federal Trade Commission or the Department of Justice would conduct the review, or that a look at Musk’s other interests would prompt competition concerns, but the deal could still draw a deeper second request investigation.
+ 
+Biden administration enforcers are signaling that they will look to push the boundaries of current law and be aggressive on mergers. Big Tech is especially in their crosshairs, and the agencies have broad latitude in deciding when to issue second requests.
+ 
+“No matter who owns or runs Twitter, the President has long been concerned about the power large social media platforms have over our everyday lives,” White House Press Secretary Jen Psaki said today after the deal was announced.
+ 
+An FTC review might prove difficult and expensive for Musk — Twitter's privacy conflict with the FTC over the alleged repurposing of telephone numbers provided by users for security purposes to target them with advertising still looms. Under new Chair Lina Khan, the FTC has stressed it will bring privacy issues into its merger and other competition reviews.
+ 
+Musk's libertarian beliefs might take the oxygen out of Twitter’s content-moderation conflicts with conservatives after it banned President Donald Trump after the Jan. 6 attacks on the US Capital, including Twitter’s active litigation against the Texas attorney general (see here). And in Europe, Musk and policymakers seem to be in tune with algorithmic transparency. 
+ 
+Both the EU's Digital Services Act, agreed over the weekend (see here, here and here), and the UK's Online Safety Bill, making its way through the parliament, contain new transparency obligations for platforms on how they use algorithms to recommend content and product to users, as well as risk-based action to prevent them from being misused, particularly against children.  
+ 
+Both measures also contain provisions about regular audits, with the UK's framework introducing robust powers for the country's communications watchdog Ofcom to enter premises and conduct on-site controls with senior management under risk of financial penalties. Given his patchy record with enforcers such as the US Securities and Exchange Commission, Musk may not relish having to answer their questions, but at least the proposed regulation matches his ambition to make algorithms more transparent.
+ 
+— Content moderation —
+ 
+But the new regulatory focus on content moderation can also prove tricky for the new Twitter owner. 
+ 
+Musk has repeatedly expressed his critical view of the platform’s moderation policies. Before his stake in Twitter was announced, he asked his Twitter followers a provocative question. “Free speech is essential to a functioning democracy,” he tweeted. “Do you believe Twitter rigorously adheres to this principle?” A full 70 percent voted no.
+ 
+Indeed, even in his offer to buy the platform, Musk pointedly said that Twitter should be “the platform for free speech around the globe,” raising questions about his intention to accept new moderation obligations which he is likely to see as unjustified and unnecessary interference (see here).
+ 
+The takeover comes as the EU and UK’s regulators attempt to take on not only illegal content — based on the premise that what’s illegal offline should also be illegal online — or more elusive-to-define hateful content, but in the UK’s case even “legal, but harmful” content.
+ 
+This category of content has caused significant controversy, with industry figures claiming it's unclear what it should include, and rights groups saying it will harm freedom of speech.
+ 
+Musk is likely to raise similar objections (see here). 
+ 
+During a recent TED event, Musk insisted he would “abide by rules,” but also hinted he would prefer a laxer approach to enforcement, arguing that “we would want to err on this; if in doubt ... let it exist.”
+ 
+“If it's a gray area, I would say let the tweet exist. But obviously in a case where there's perhaps a lot of controversy that you'd not want to necessarily promote that tweet. … I'm not saying I have all the answers here, but I do think that we want to be just very reluctant to delete things and just be very cautious with permanent bans,” he said, prompting some to speculate that the new approach could result, for example, in Donald Trump’s account being reinstated to the platform.
+ 
+In mid-April, Musk tweeted that “a social media platform's policies are good if the most extreme 10% on left and right are equally unhappy,” and after today’s announcement said he hoped “even my worst critics remain on Twitter, because that is what free speech means.”
+ 
+Musk’s content moderation critics were already clearing their throats within hours of the deal being announced today, with groups such as Free Press proclaiming that the deal is a “step backward” for Twitter.
+ 
+“With control of such a massive platform comes great responsibility — and Musk hasn’t shown he has the capacity to be accountable to this diverse online community,” said Free Press co-Chief Executive Jessica J. González.
+ 
+—Privacy conflict—
+ 
+Twitter has acknowledged in multiple US securities filings that it received a complaint from the FTC in July 2020 alleging that the company violated its 2011 FTC consent order by repurposing phone numbers that users shared for multi-factor authentication to target ads between 2013 and 2019. Twitter has set aside up to $250 million to cover fines or other regulatory costs from the FTC action (see here). 
+ 
+“The matter remains unresolved, and there can be no assurance as to the timing or the terms of any final outcome,” Twitter said in its most recent securities filing three months ago. The FTC declined to comment on the situation today. 
+ 
+With nearly two years elapsed since Twitter received the FTC complaint and began negotiating with the enforcer, a reasonable assumption would be that the FTC has not been willing to settle for $250 million, and that an expensive court battle remains a possibility. That looming uncertainty about the legal costs Twitter may face would have to have been a factor in Musk’s calculations about buying Twitter. 
+ 
+The FTC said in the original 2010 complaint (see here) that Twitter failed to keep private Tweets that users designated as “private.” Twitter agreed to settle in 2011 in exchange for a 20-year consent order. But violation of those orders now carries penalties of up to $46,517 per violation, per day — a penalty that could theoretically reach into the tens of billions of dollars if multiplied by the number of affected US users over the six years between 2013 and 2019.
+ 
+Musk became the world’s wealthiest man by leading Tesla and SpaceX in ways that broke the mold for carmakers and aerospace firms, often pushing the regulatory envelope beyond what his competitors would countenance. 
+ 
+It’s unclear whether Musk will find the same success in leading a social media company, where the regulations until now have been entirely self-imposed. Twitter wants free speech but doesn’t want to offer a free haven for racists and bullies, since both will chase away users and advertisers. Its rules for content moderation aren’t an imposition from bureaucrats who Musk can dismiss as distant and out of touch. They grew from inside the company after years of internal tradeoffs between its free-speech ethos and the imperatives of serving the entire public — not just its loudest elements.
+ 
+There is no Department of Social Media for Musk to rage against. There’s only Twitter itself. 
+ 
+—With reporting by Khushita Vasant in Washington.
+ 
+Sent: 	Tuesday, April 12, 2022 1:23 PM
+ 
+Subject:          	US FTC's Phillips touts regulation, not break-ups, as privacy solution | Insight
+ 
+          	US FTC's Phillips touts regulation, not break-ups, as privacy solution           	
+12 Apr 2022	|	17:19 GMT    |	Insight         	
+By Dave Perera
+          	Better privacy is to be had for Americans through regulation, not antitrust enforcement, said Republican Federal Trade Commissioner member Noah Phillips. A US Republican Federal Trade Commission member today said marketplace privacy violations are a negative cost of doing business, not a symptom of monopoly — meaning their solution isn't more antitrust enforcement but regulation.
+ 
+Agency Chair Lina Khan and others have suggested that dominant tech firms are responsible in large measure for Americans' loss of privacy. “I think that is wrong, wrong, wrong,” Commissioner Noah Phillips said during a conference today.*
+ 
+Rather, Phillips said today’s privacy landscape is a result of a market leading naturally to what economists call an “externality,” a situation in which negative outcomes are born by consumers rather than producers.
+ 
+Stopping mergers won’t necessarily boost privacy, Phillips said. That puts supporters of antitrust as a remedy to privacy violations in the paradoxical position of contending with a corrected marketplace will naturally gravitate toward privacy while also supporting increased regulation, he asserted.
+ 
+“If you believe that the market is going to solve everything, you shouldn’t support privacy law. You certainly shouldn’t support privacy rulemaking,” he told the Washington audience.
+ 
+Many small companies perpetuate the worst privacy violations, Phillips added, citing makers of so-called stalkerware apps as an example (see here).
+ 
+Phillips also took issue with a trend in FTC enforcement to have privacy violators delete algorithms created with data obtained without consumer consent (see here). “What constitutes the algorithm, what constitutes the ill-gotten gain can be hard to spot,” he said.
+ 
+* “IAPP Global Privacy Summit 2022.” International Association of Privacy Professionals, Washington DC, April 11-13, 2022.
+ 
+ 
+Sent: 	Wednesday, April 6, 2022 6:17 PM
+ 
+Subject:          	US DOJ seeks to use increased budget to enforce algorithm-related antitrust issues, official says | Insight
+ 
+          	US DOJ seeks to use increased budget to enforce algorithm-related antitrust issues, official says    	
+6 Apr 2022	|	22:14 GMT    |	Insight           	
+By Xu Yuan     	
+          	The US Department of Justice is hoping to use extra funding in the agency's budget request to build enforcement capacities to tackle issues involving the use of algorithms, an official said.   The US Department of Justice is hoping to use extra funding in the agency's budget request to build enforcement capacities to tackle issues involving the use of algorithms, an official said today.
+ 
+Michelle Rindone, assistant chief in the international section of the department's antitrust division, said President Biden’s 2023 budget includes a request for the antitrust division to get an extra of $80 million next fiscal year.
+ 
+“We intend to put that money to good use and hopefully can use some of that money to increase our capacity in this area [of algorithms], to dedicate some of those resources to helping to build out our capacity in this area,” Rindone said at a conference.*
+ 
+But Rindone said the agency is right now “in active listening mode in terms of determining what the best next steps are for increasing our capacity in this area.” The DOJ is &quot;really trying to learn some of the challenges that other agencies have encountered in this area, but most importantly, some of the best practices that we really hit the ground running as our resource restraint starts to loosen up.&quot;
+ 
+Rindone said the international section has also focused on “facilitating an interagency and international dialogue on the use of data analytics, for instance, to detect collusion that affects public procurement.  She said the agency is learning a lot from its international counterparts in the UK and the EU.
+ 
+Avery Gardiner, chief counsel of the Competition Policy, Antitrust and Consumer Rights Subcommittee of the Senate Judiciary Committee, said during the same panel that antitrust regulators should be given more resources to allow them to hire technologists and data scientists to deal with algorithm-related issues.
+ 
+Rindone said resources are needed “not only help us investigate cases involving algorithms, but … [to] proactively use and develop algorithms to generate cases would also be incredibly beneficial.”
+ 
+She said algorithms can aid in the detection of misconduct.
+ 
+“But I think it's important to remember that even the results that are generated from such algorithms ... would be certainly just an instance of ... circumstantial evidence ... not necessarily a definitive proof that an anticompetitive collusive agreement can happen,” she said.
+ 
+*American Bar Association Antitrust Spring Meeting 2022. Washington, DC. April 5-8, 2022.
+ 
+          	
+          	
+          	
+          	
+          	
+          	
+ 
+Sent: 	Friday, March 25, 2022 5:13 AM
+ 
+Subject:          	Taiwan's FTC criticized for inaction as media-platform debate grinds on | Insight
+ 
+          	Taiwan's FTC criticized for inaction as media-platform debate grinds on        	
+25 Mar 2022	|	08:35 GMT    |	Insight        	
+By Yonnex Li  	
+          	Taiwanese lawmakers are losing patience as little progress has been made on the part of the island's antitrust regulator in facilitating much-anticipated bargaining between media outlets and digital giants, such as Google and Facebook, for the publishers to secure fair payment for their news content. Lee May, head of the island's Fair Trade Commission, said views are still diverse as to the appropriate approach to the issue.           	Taiwanese lawmakers are losing patience as little progress has been made on the part of the island's antitrust regulator in facilitating much-anticipated bargaining between media outlets and digital giants, such as Google and Facebook, for the publishers to secure fair payment for their news content.
+ 
+In their latest meeting with Lee May, chairwoman of Taiwan's Fair Trade Commission, or TFTC, members of the legislature criticized the regulator for failing to achieve a breakthrough after another year of discussions and research into the matter.
+ 
+&quot;Taking into account the white paper, as well as your answers to the questions posed by a few other lawmakers, I think the FTC is acting less actively contrary to what was expected,&quot; lawmaker Chiu Yi-ying said in the question-and-answer session with Lee. She was referring to a newly released draft of the TFTC's white paper on the digital economy (see here).
+ 
+The draft, which is open for public comment until March 31, explores international trends on a spate of Internet-based antitrust issues. The regulator was criticized for failing to take concrete action against questionable conduct other than highlighting the need for further research, including in the media-platform debate.
+ 
+Lee explained that views on the issue are still diverse, with some parties advocating introducing a law similar to the media-bargaining code in Australia; and some proposing a fund through which platforms may share a portion of their profits in the form of subsidies (see here).
+ 
+There were also calls for the media to negotiate on their own with the platforms, she noted, adding that the government has set up a cross-departmental taskforce to look at the issue.
+ 
+Lee reiterated remarks made by the regulator in the draft white paper, saying that it does have a role to play in possible negotiations between platforms and media outlets. For instance, competing publishers can seek antitrust exemption from it if they decide to collectively bargain with the platforms.
+ 
+Still, lawmakers weren't satisfied with the TFTC's dealings with digital giants, comparing its lack of enforcement in this space with the progress already made in foreign jurisdictions, such as the US, EU, Japan and South Korea.
+ 
+In this connection, TFTC Vice Chairman Chen Chih-min admitted that the agency has yet to issue any information requests to large platforms on their use of algorithms, despite growing concerns the companies are using the technologies to distort markets.
+ 
+ 
+Sent: 	Wednesday, March 9, 2022 2:37 PM
+ 
+Subject:          	Amazon's 'potentially criminal conduct' should be probed by DOJ, US House lawmakers say | Insight
+ 
+          	Amazon's 'potentially criminal conduct' should be probed by DOJ, US House lawmakers say         	
+9 Mar 2022	|	19:33 GMT    |	Insight          	
+By Khushita Vasant     	
+          	Amazon and some of its executives engaged in &quot;potentially criminal conduct&quot; aimed at hindering a US House Judiciary Committee investigation into digital markets, a bipartisan group of US House lawmakers said in a letter to the Department of Justice today.           	Amazon and some of its executives engaged in &quot;potentially criminal conduct&quot; aimed at hindering a US House Judiciary Committee investigation into digital markets, a bipartisan group of US House lawmakers said in a letter to the Department of Justice today.
+ 
+Amazon &quot;repeatedly&quot; tried to thwart the committee’s efforts to uncover the truth about its business practices, according to the 24-page letter to Attorney General Merrick Garland (see here).
+ 
+&quot;For this, it must be held accountable. We therefore refer this matter to the Department to investigate whether Amazon or its executives obstructed Congress or violated other applicable federal laws,&quot; it said.
+ 
+House Judiciary Committee Chair Jerrold Nadler signed the letter along with fellow Democrats David Cicilline, who chairs the subcommittee on antitrust, and subcommittee Vice Chair Pramila Jayapal. Ken Buck, the subcommittee's ranking Republican, and fellow Republican Matt Gaetz also signed the letter.
+ 
+— Data, self-preferencing —
+ 
+Amazon engaged in &quot;a pattern and practice&quot; of misleading conduct during the committee's 16-month long investigation and follow-up inquiries into competition in digital markets, the lawmakers said. Its conduct suggests it was “acting with an improper purpose” to &quot;influence, obstruct, or impede” the investigation, the letter said.
+ 
+The &quot;problem&quot; began with the initial testimony Amazon gave the committee in July 2019, the lawmakers said. Sworn testimony by Amazon's associate general counsel for competition, Nate Sutton, said the company doesn't use the &quot;troves of data&quot; from its third-party sellers to compete with them. But credible investigative reporting has shown otherwise, the lawmakers said.
+ 
+US lawmakers and antitrust enforcers across jurisdictions remain concerned about Amazon’s dual role as both the operator of a dominant online marketplace and a competitor selling its own products. As a platform operator, it collects enormous data from customers and third-party sellers on products, prices and inventory while also selling and advertising its own private-label products. This dual role creates an inherent conflict of interest, giving the Seattle-based e-commerce giant the ability to unfairly advantage itself, the letter said.
+ 
+An Amazon spokesperson said there's &quot;no factual basis for this, as demonstrated in the huge volume of information we've provided over several years of good faith cooperation with this investigation.”
+ 
+— Lies and stonewalling —
+ 
+&quot;Throughout the course of the Committee’s investigation, Amazon attempted to cover up its lie by offering ever-shifting explanations of what it called its 'Seller Data Protection Policy',&quot; the lawmakers told the DOJ.
+ 
+When it was questioned about manipulation of consumers’ search results, a senior Amazon official testified that the company's search algorithms didn't preference its private-label products over third-party sellers’ products, the letter said.
+ 
+&quot;After Amazon was caught in a lie and repeated misrepresentations, it stonewalled the Committee’s efforts to uncover the truth,&quot; the lawmakers said.
+ 
+Lawmakers raised concerns over Amazon’s “blanket assertions of privilege” in refusing to turn over evidence corroborating its claims of compliance over data use policy.
+ 
+Amazon was given a final opportunity to show proof that corrected the record or corroborated its submissions made under oath and in writing, but it offered &quot;conclusory denials of adverse facts,&quot; they said.
+ 
+The letter addressed submissions by other Amazon executives such as Brian Huseman, vice president for public policy, “that did not provide any new information” in response to the subcommittee inquiries.
+ 
+Amazon is “still changing its story” over the use of third-party seller data for its own private-label business, the letter said.
+ 
+ 
+Sent: 	Friday, December 3, 2021 11:41 AM
+ 
+Subject:          	UK, US antitrust regulators ready to tackle 'new and evolving challenges' in digital markets | Official Statement
+ 
+          	
+UK, US antitrust regulators ready to tackle 'new and evolving challenges' in digital markets
+3 Dec 2021 | 16:37 GMT | Official Statement  	
+          	
+MLex Summary: UK and US antitrust enforcers are ready to work together to tackle &quot;new and evolving challenges&quot; across digital markets, the UK's Competition and Markets Authority, the US Federal Trade Commission and the antitrust division of the US Department of Justice said in a joint statement following a summit of G7 competition authorities to address market-power issues in the digital sector. The CMA previously said the meeting was a &quot;unique opportunity&quot; for international agencies to discuss issues such as app stores, online marketplaces, digital advertising, mobile ecosystems, cloud computing and algorithms.        	
+Statement follows.
+ 
+Joint Statement from UK Competition and Markets Authority, U.S. FTC and DOJ Antitrust Division leadership following the G7 Competition Enforcers Summit
+ 
+Leadership of the Federal Trade Commission and the Antitrust Division of the Department of Justice attended meetings in London this week as part of the Competition Enforcers Summit, which took place under the 2021 G7 Digital and Technology Track in connection with the UK’s G7 presidency.
+ 
+The U.S. agencies expressed their appreciation to the UK’s Competition and Markets Authority (CMA) for hosting them during this event, and for the opportunity to meet in person with the CMA to discuss cooperation between our respective jurisdictions. Following the meeting’s conclusion, the Competition and Markets Authority, the Federal Trade Commission, and the Antitrust Division of the Department of Justice issue this joint statement:
+ 
+This week’s Competition Enforcers Summit underscored the similar challenges we face as enforcement agencies. Our meetings highlighted the close relationship among our agencies, underscored that we each view this relationship as a critical element of our respective enforcement programs, and affirmed our intent to strengthening collaboration and coordination with one another.
+ 
+New and evolving challenges require us to innovate in how we accomplish our missions. And in today’s global economy, our agencies often review the same mergers or confront similar potentially anticompetitive conduct. Given the many parallel investigations, we are committed to working closely together to promote fully informed decision-making and to facilitate best practices on pursuing effective remedies. We also welcome working with other agencies both individually and collectively.
+ 
+We share common goals and are dedicated to close and regular engagement both on the agency head and staff level, as priorities and resources allow. Deeper recognition of our common cause of tackling anticompetitive conduct and mergers opens up possibilities for us to implement robust cross-border enforcement regimes and achieve success in ways that would elude individual agencies working alone.    	
+          	
+          	 
+ 
+Sent: 	Monday, November 29, 2021 3:48 PM
+ 
+Subject:          	US DOJ, FTC meet with fellow G7 enforcement partners on competition in digital markets | Official Statement
+ 
+          	
+US DOJ, FTC meet with fellow G7 enforcement partners on competition in digital markets
+29 Nov 2021 | 20:38 GMT | Official Statement   
+          	
+MLex Summary: Assistant Attorney General Jonathan Kanter of the Department of Justice’s antitrust division and Federal Trade Commission Chair Lina Khan participated in a competition enforcers summit as part of the 2021 G7 Digital and Technology Track. The summit, hosted by the UK Competition and Markets Authority, explored how competition agencies are approaching the challenges posed by digital markets. International competition agencies discussed common areas of interest and opportunities for potential collaboration on issues such as large digital platforms, app stores, online marketplaces, digital advertising, mobile ecosystems, cloud computing and algorithms. 	
+Statement follows in full.
+ 
+Justice Department and Federal Trade Commission Meet with Fellow G7 Enforcement Partners on Competition in Digital Markets
+ 
+WASHINGTON – Today, Assistant Attorney General Jonathan Kanter of the Department of Justice Antitrust Division and Federal Trade Commission (FTC) Chair Lina M. Khan participated in a Competition Enforcers Summit (Summit) as part of the 2021 G7 Digital and Technology Track. The Summit, hosted by the UK Competition and Markets Authority, explored how competition agencies are approaching the challenges posed by digital markets.
+ 
+The Summit offered a unique opportunity for international competition agencies to discuss common areas of interest and opportunities for potential collaboration on issues such as large digital platforms, app stores, online marketplaces, digital advertising, mobile ecosystems, cloud computing and algorithms. The participating delegates were from the G7 competition authorities in Canada, France, Germany, Italy, Japan, the UK and the United States, plus the European Commission and 2021 G7 invitees from Australia, India, South Africa and South Korea.
+ 
+“There is a great deal of urgency among global competition law enforcement authorities to confront the daunting challenges presented by data-driven technologies,” said Assistant Attorney General Kanter. “This Summit is an important step forward in our effort to ensure that our antitrust law enforcement tools are fit for purpose in a modern digital economy and reflect market realities.”
+ 
+“As competition enforcers around the world tackle unlawful conduct in digital markets, we face similar challenges and opportunities. Coming together through the G7 to collectively learn from these experiences and share expertise can boost our anti-monopoly work worldwide,” said FTC Chair Lina M. Khan. “Together, the FTC and its G7 partners seek to deepen our knowledge, refine our tools, and redouble our enforcement efforts to target unfair methods of competition in digital markets.”
+ 
+The Summit also provided an opportunity to consider areas for increased cooperation and coordination among competition agencies and reflect on how best to use agency skills, knowledge and resources to deal with challenges in digital markets.
+ 
+ 
+          	 
+
